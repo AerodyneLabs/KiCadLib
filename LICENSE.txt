@@ -1,0 +1,2 @@
+This library is licensed under the Creative Commons Attribution-ShareAlike Unported version 3.0 or later.
+For the most recent license please visit http://creativecommons.org/licenses/by-sa/3.0/
