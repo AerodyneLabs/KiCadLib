@@ -1,7 +1,11 @@
-EESchema-DOCLIB  Version 2.0  Date: 4/14/2013 12:44:49 PM
+EESchema-DOCLIB  Version 2.0  Date: 4/14/2013 4:01:21 PM
 #
 $CMP MOS_DUAL_PN
 D Dual P/N MOSFET, Common Drain
+$ENDCMP
+#
+$CMP TEC
+D Thermoelectric Cooler
 $ENDCMP
 #
 #End Doc Library
