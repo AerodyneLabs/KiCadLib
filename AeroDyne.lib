@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 4/14/2013 4:01:21 PM
+EESchema-LIBRARY Version 2.3  Date: 4/14/2013 4:08:12 PM
 #encoding utf-8
 #
 # 18F43K22
@@ -4038,8 +4038,8 @@ ENDDEF
 # TEC
 #
 DEF TEC TC 0 40 Y Y 1 F N
-F0 "TC" 0 0 60 H V C CNN
-F1 "TEC" 0 0 60 H V C CNN
+F0 "TC" 0 50 60 H V C CNN
+F1 "TEC" 0 -50 60 H V C CNN
 DRAW
 S -300 200 300 -200 0 1 0 N
 X + 1 -500 0 200 R 50 50 1 1 P
