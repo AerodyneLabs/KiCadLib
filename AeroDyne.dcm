@@ -1,4 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: 4/18/2013 5:13:01 PM
+EESchema-DOCLIB  Version 2.0  Date: 4/18/2013 6:43:31 PM
+#
+$CMP LM4040
+D Precision voltage referense
+$ENDCMP
 #
 $CMP LT1719-S6
 D Comparator, Single, SOT23
