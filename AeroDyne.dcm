@@ -1,4 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: 4/18/2013 6:43:31 PM
+EESchema-DOCLIB  Version 2.0  Date: 4/18/2013 9:24:54 PM
+#
+$CMP 74AHC1G00
+D 2 input AND gate
+$ENDCMP
 #
 $CMP LM4040
 D Precision voltage referense
