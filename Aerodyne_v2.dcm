@@ -1,0 +1,182 @@
+EESchema-DOCLIB  Version 2.0  Date: 8/20/2013 2:11:25 PM
+#
+$CMP ANTENNA
+D Antenna, Generic
+$ENDCMP
+#
+$CMP BATTERY
+D Battery, 1 cell
+K Battery
+$ENDCMP
+#
+$CMP C
+D Capacitor
+K Capacitor
+$ENDCMP
+#
+$CMP CONN-2
+D Connector, 2x1
+$ENDCMP
+#
+$CMP CONN-DC
+D Conn, DC
+$ENDCMP
+#
+$CMP CP
+D Polarized Capacitor
+K Capacitor
+$ENDCMP
+#
+$CMP CRYSTAL
+D Crystal, 2 pin
+$ENDCMP
+#
+$CMP DIODE
+D Diode
+K Diode
+$ENDCMP
+#
+$CMP DIODE-SCH
+D Diode, Schottky
+K Diode
+$ENDCMP
+#
+$CMP FERRITE
+D Ferrite Bead
+$ENDCMP
+#
+$CMP ICSP-PIC
+D ICSP, PIC
+$ENDCMP
+#
+$CMP L
+D Inductor
+K Inductor
+$ENDCMP
+#
+$CMP L-CORE
+D Inductor, Magnetic Core
+K Inductor
+$ENDCMP
+#
+$CMP LED
+D LED
+$ENDCMP
+#
+$CMP LM358
+D Op-Amp, Dual
+$ENDCMP
+#
+$CMP LTC3112
+D PMIC, Buck-boost, TSSOP
+$ENDCMP
+#
+$CMP LTC3440
+D PMIC, Switching, Buck-Boost
+$ENDCMP
+#
+$CMP LTC4412
+D LTC4412, low loss power path controller
+K Linear, LTC4412, Linear Diode, OR
+F D:/Dropbox/StratoStar/Phase 2/Datalogger/Datasheets/4412fa.pdf
+$ENDCMP
+#
+$CMP MCP73871
+D Charger, Li-Ion/Li-Polymer, 1 cell
+K Charger
+$ENDCMP
+#
+$CMP MOSFET-N
+D MOSFET, N-ch, Enhancement
+$ENDCMP
+#
+$CMP MOSFET-P
+D MOSFET, P-ch, Enhancement
+$ENDCMP
+#
+$CMP MPU9150
+D Sensor, IMU, 9 DoF, SPI, I2C
+K Sensor, IMU
+$ENDCMP
+#
+$CMP MRF24WB0MA
+D RF Transciever Module, 802.11b
+$ENDCMP
+#
+$CMP MS5611
+D Sensor, Pressure/Temperature, SPI/I2C
+K Sensor, Pressure, Temperature
+$ENDCMP
+#
+$CMP PHOTODIODE
+D Photodiode
+$ENDCMP
+#
+$CMP PIC32MX7X5FXXXH-QFP
+D MCU, Microchip, 32-bit, 64 pin, 53 I/O, QFP
+K MCU, PIC
+$ENDCMP
+#
+$CMP R
+D Resistor
+K Resistor
+$ENDCMP
+#
+$CMP SD-CARD
+D SD Card
+$ENDCMP
+#
+$CMP SENSORBUS
+D Connector, SmartSensor Bus
+$ENDCMP
+#
+$CMP SERVO
+D Connector, Servo, 3x1
+$ENDCMP
+#
+$CMP SHT21
+D Sensor, Humidity/Temperature, Digital I2C
+$ENDCMP
+#
+$CMP SN65176
+D Transciever, Differential Bus, RS485
+$ENDCMP
+#
+$CMP SN74AHC1G00
+D Gate, NAND, 2 input
+$ENDCMP
+#
+$CMP SN74LVC1G125
+D Gate, Buffer, Tri-state
+$ENDCMP
+#
+$CMP SPU0410LR5H-QB
+D Sensor, Microphone, MEMS, Analog
+$ENDCMP
+#
+$CMP SW-MOM
+D Switch, SPST, Momentary
+$ENDCMP
+#
+$CMP THERMISTOR
+D Resistor
+K Resistor
+$ENDCMP
+#
+$CMP USB
+D Connector, USB
+$ENDCMP
+#
+$CMP USB_MINI
+D Connector, USB
+$ENDCMP
+#
+$CMP VENUS638FLPX
+D Sensor, GPS, 20 hz
+$ENDCMP
+#
+$CMP XBEE-SMT
+D RF Transciever, XBee
+$ENDCMP
+#
+#End Doc Library
