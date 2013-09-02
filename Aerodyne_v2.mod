@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  9/1/2013 7:56:45 PM
+PCBNEW-LibModule-V1  9/1/2013 8:02:09 PM
 # encoding utf-8
 Units mm
 $INDEX
@@ -190,7 +190,7 @@ Po 1.1 0
 $EndPAD
 $EndMODULE CAPCP2012
 $MODULE CONN-6200-09-SMT
-Po 0 0 0 15 5223E23F 00000000 ~~
+Po 0 0 0 15 5223E38E 00000000 ~~
 Li CONN-6200-09-SMT
 Cd Conn, FFC, 9-pos, 1mm pitch
 Sc 0
@@ -210,63 +210,63 @@ Sh "1" R 0.7 3.1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -8 -8.83
+Po -4 -5.05
 $EndPAD
 $PAD
 Sh "2" R 0.7 3.1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -6 -8.83
+Po -3 -5.05
 $EndPAD
 $PAD
 Sh "3" R 0.7 3.1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -4 -8.83
+Po -2 -5.05
 $EndPAD
 $PAD
 Sh "4" R 0.7 3.1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -2 -8.83
+Po -1 -5.05
 $EndPAD
 $PAD
 Sh "5" R 0.7 3.1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0 -8.83
+Po 0 -5.05
 $EndPAD
 $PAD
 Sh "6" R 0.7 3.1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 2 -8.83
+Po 1 -5.05
 $EndPAD
 $PAD
 Sh "7" R 0.7 3.1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 4 -8.83
+Po 2 -5.05
 $EndPAD
 $PAD
 Sh "8" R 0.7 3.1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 6 -8.83
+Po 3 -5.05
 $EndPAD
 $PAD
 Sh "9" R 0.7 3.1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 8 -8.83
+Po 4 -5.05
 $EndPAD
 $PAD
 Sh "" R 3.23 2.7 0 0 0
@@ -280,7 +280,7 @@ Sh "" R 3.23 2.7 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 13.42 -1.43
+Po 6.71 -1.43
 $EndPAD
 $EndMODULE CONN-6200-09-SMT
 $MODULE DIOC1608
