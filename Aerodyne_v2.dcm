@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 8/31/2013 2:13:27 PM
+EESchema-DOCLIB  Version 2.0  Date: 9/1/2013 7:24:50 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -16,6 +16,16 @@ $ENDCMP
 #
 $CMP CONN-2
 D Connector, 2x1
+$ENDCMP
+#
+$CMP CONN-8
+D Connector, 8-pin
+K Conn
+$ENDCMP
+#
+$CMP CONN-9
+D Connector, 9-pin
+K Conn
 $ENDCMP
 #
 $CMP CONN-DC
