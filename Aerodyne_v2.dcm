@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 9/1/2013 7:24:50 PM
+EESchema-DOCLIB  Version 2.0  Date: 9/1/2013 8:43:23 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -154,6 +154,10 @@ $ENDCMP
 #
 $CMP SN74AHC1G00
 D Gate, NAND, 2 input
+$ENDCMP
+#
+$CMP SN74HC126
+D Gate, Buffer, Tri-State, Quad
 $ENDCMP
 #
 $CMP SN74LVC1G125
