@@ -1,7 +1,11 @@
-EESchema-DOCLIB  Version 2.0  Date: 9/2/2013 2:07:04 PM
+EESchema-DOCLIB  Version 2.0  Date: 9/2/2013 4:21:36 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
+$ENDCMP
+#
+$CMP BA00DD0W
+D PMIC, LDO, 2A, Enable
 $ENDCMP
 #
 $CMP BATTERY
