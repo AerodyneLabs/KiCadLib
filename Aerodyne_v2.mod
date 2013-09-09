@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  9/9/2013 12:48:45 AM
+PCBNEW-LibModule-V1  9/9/2013 1:13:13 AM
 # encoding utf-8
 Units mm
 $INDEX
@@ -3573,8 +3573,8 @@ Ne 0 ""
 Po 0.7 0
 $EndPAD
 $SHAPE3D
-Na "smd/resistors/R0603.wrl"
-Sc 0.4 0.4 0.4
+Na "3D/Passive/RESC1608.wrl"
+Sc 0.393701 0.393701 0.393701
 Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
@@ -3604,8 +3604,8 @@ Ne 0 ""
 Po 1.1 0
 $EndPAD
 $SHAPE3D
-Na "smd/resistors/R0805.wrl"
-Sc 0.4 0.4 0.4
+Na "3D/Passive/RESC2012.wrl"
+Sc 0.393701 0.393701 0.393701
 Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
