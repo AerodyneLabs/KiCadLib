@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 9/20/2013 3:11:27 PM
+EESchema-DOCLIB  Version 2.0  Date: 9/20/2013 4:21:01 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -210,6 +210,10 @@ $ENDCMP
 $CMP THERMISTOR
 D Resistor
 K Resistor
+$ENDCMP
+#
+$CMP TP
+D Test Point
 $ENDCMP
 #
 $CMP USB
