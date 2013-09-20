@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 9/20/2013 2:59:06 PM
+EESchema-LIBRARY Version 2.3  Date: 9/20/2013 3:04:57 PM
 #encoding utf-8
 #
 # ANTENNA
@@ -91,6 +91,8 @@ F0 "C" 50 150 60 H V L CNN
 F1 "C" 50 -150 60 H V L CNN
 F2 "~" 0 0 60 H V C CNN
 F3 "~" 0 0 60 H V C CNN
+F4 "V" -50 -150 60 H I R CNN "Voltage"
+F5 "D" -50 150 60 H I R CNN "Dielectric"
 $FPLIST
  CAPC*
 $ENDFPLIST
