@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 9/18/2013 8:33:31 PM
+EESchema-DOCLIB  Version 2.0  Date: 9/20/2013 1:59:34 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -60,6 +60,11 @@ D Crystal, 2 pin
 $ENDCMP
 #
 $CMP DIODE
+D Diode
+K Diode
+$ENDCMP
+#
+$CMP DIODE-PHOTO
 D Diode
 K Diode
 $ENDCMP
