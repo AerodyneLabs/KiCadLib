@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 9/22/2013 10:48:54 PM
+EESchema-DOCLIB  Version 2.0  Date: 9/22/2013 11:19:45 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -76,6 +76,10 @@ $ENDCMP
 #
 $CMP FERRITE
 D Ferrite Bead
+$ENDCMP
+#
+$CMP GATE-AND
+D Logic, And, Single
 $ENDCMP
 #
 $CMP ICSP-PIC
