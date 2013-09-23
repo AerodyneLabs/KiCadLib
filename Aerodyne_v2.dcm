@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 9/20/2013 9:30:47 PM
+EESchema-DOCLIB  Version 2.0  Date: 9/22/2013 10:48:54 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -156,6 +156,11 @@ $ENDCMP
 $CMP PIC32MX7X5FXXXH-QFP
 D MCU, Microchip, 32-bit, 64 pin, 53 I/O, QFP
 K MCU, PIC
+$ENDCMP
+#
+$CMP POT
+D Resistor
+K Resistor
 $ENDCMP
 #
 $CMP R
