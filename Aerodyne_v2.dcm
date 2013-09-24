@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 9/22/2013 11:19:45 PM
+EESchema-DOCLIB  Version 2.0  Date: 9/23/2013 9:37:54 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -147,6 +147,10 @@ $ENDCMP
 #
 $CMP PHOTODIODE
 D Photodiode
+$ENDCMP
+#
+$CMP PIC32MX250F128B
+D Microcontroller, 32 bit, 28 pin
 $ENDCMP
 #
 $CMP PIC32MX250F128D
