@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 9/26/2013 11:50:02 PM
+EESchema-DOCLIB  Version 2.0  Date: 9/27/2013 5:21:39 AM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -6,6 +6,10 @@ $ENDCMP
 #
 $CMP AOZ1031
 D Regulator, Buck, 3A, Sync
+$ENDCMP
+#
+$CMP AOZ1280
+D PMIC, DC-DC, Buck
 $ENDCMP
 #
 $CMP BA00DD0W
