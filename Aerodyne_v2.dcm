@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 9/26/2013 2:34:12 AM
+EESchema-DOCLIB  Version 2.0  Date: 9/26/2013 11:50:02 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -106,6 +106,10 @@ $ENDCMP
 #
 $CMP LTC3112
 D PMIC, Buck-boost, TSSOP
+$ENDCMP
+#
+$CMP LTC3129-SOP
+D PMIC, DC-DC, Buck/Boost
 $ENDCMP
 #
 $CMP LTC3440
