@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/6/2013 10:41:01 PM
+EESchema-DOCLIB  Version 2.0  Date: 10/11/2013 12:29:59 AM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -231,6 +231,10 @@ $ENDCMP
 $CMP THERMISTOR
 D Resistor
 K Resistor
+$ENDCMP
+#
+$CMP TM4C123GH6PZ
+D MCU, 32 bit, 100 pin, Cortex M4F, TI
 $ENDCMP
 #
 $CMP TP

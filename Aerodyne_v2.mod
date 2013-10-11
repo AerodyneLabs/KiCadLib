@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  10/6/2013 11:56:44 PM
+PCBNEW-LibModule-V1  10/11/2013 12:27:57 AM
 # encoding utf-8
 Units mm
 $INDEX
@@ -53,6 +53,7 @@ QFN50P400X400X100-21N
 QFN65P600X600-28N
 QFN65P600X600-29N
 QFP50P1200X1200X120-64N
+QFP50P1600X1600-100N
 QFP80P1200x1200-44N
 RESC1608
 RESC2012
@@ -5017,6 +5018,743 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE QFP50P1200X1200X120-64N
+$MODULE QFP50P1600X1600-100N
+Po 0 0 0 15 52578884 00000000 ~~
+Li QFP50P1600X1600-100N
+Sc 0
+AR 
+Op 0 0 0
+.LocalClearance 0.1524
+T0 -10 0 1 1 900 0.15 N V 21 N "QFP50P1600X1600-100N"
+T1 10 0 1 1 900 0.15 N V 21 N "VAL**"
+DS -7 -7 -7 6.5 0.15 21
+DS -7 6.5 -6.5 7 0.15 21
+DS -6.5 7 6.5 7 0.15 21
+DS 6.5 7 7 6.5 0.15 21
+DS 7 6.5 7 -6.5 0.15 21
+DS 7 -6.5 6.5 -7 0.15 21
+DS 6.5 -7 -7 -7 0.15 21
+$PAD
+Sh "1" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 -6
+$EndPAD
+$PAD
+Sh "2" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 -5.5
+$EndPAD
+$PAD
+Sh "3" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 -5
+$EndPAD
+$PAD
+Sh "4" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 -4.5
+$EndPAD
+$PAD
+Sh "5" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 -4
+$EndPAD
+$PAD
+Sh "6" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 -3.5
+$EndPAD
+$PAD
+Sh "7" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 -3
+$EndPAD
+$PAD
+Sh "8" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 -2.5
+$EndPAD
+$PAD
+Sh "9" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 -2
+$EndPAD
+$PAD
+Sh "10" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 -1.5
+$EndPAD
+$PAD
+Sh "11" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 -1
+$EndPAD
+$PAD
+Sh "12" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 -0.5
+$EndPAD
+$PAD
+Sh "13" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 0
+$EndPAD
+$PAD
+Sh "14" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 0.5
+$EndPAD
+$PAD
+Sh "15" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 1
+$EndPAD
+$PAD
+Sh "16" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 1.5
+$EndPAD
+$PAD
+Sh "17" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 2
+$EndPAD
+$PAD
+Sh "18" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 2.5
+$EndPAD
+$PAD
+Sh "19" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 3
+$EndPAD
+$PAD
+Sh "20" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 3.5
+$EndPAD
+$PAD
+Sh "21" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 4
+$EndPAD
+$PAD
+Sh "22" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 4.5
+$EndPAD
+$PAD
+Sh "23" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 5
+$EndPAD
+$PAD
+Sh "24" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 5.5
+$EndPAD
+$PAD
+Sh "25" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.7 6
+$EndPAD
+$PAD
+Sh "26" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 7.7
+$EndPAD
+$PAD
+Sh "27" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.5 7.7
+$EndPAD
+$PAD
+Sh "28" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5 7.7
+$EndPAD
+$PAD
+Sh "29" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 7.7
+$EndPAD
+$PAD
+Sh "30" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4 7.7
+$EndPAD
+$PAD
+Sh "31" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.5 7.7
+$EndPAD
+$PAD
+Sh "32" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 7.7
+$EndPAD
+$PAD
+Sh "33" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.5 7.7
+$EndPAD
+$PAD
+Sh "34" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 7.7
+$EndPAD
+$PAD
+Sh "35" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 7.7
+$EndPAD
+$PAD
+Sh "36" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 7.7
+$EndPAD
+$PAD
+Sh "37" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.5 7.7
+$EndPAD
+$PAD
+Sh "38" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 7.7
+$EndPAD
+$PAD
+Sh "39" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.5 7.7
+$EndPAD
+$PAD
+Sh "40" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 7.7
+$EndPAD
+$PAD
+Sh "41" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 7.7
+$EndPAD
+$PAD
+Sh "42" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 7.7
+$EndPAD
+$PAD
+Sh "43" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.5 7.7
+$EndPAD
+$PAD
+Sh "44" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 7.7
+$EndPAD
+$PAD
+Sh "45" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.5 7.7
+$EndPAD
+$PAD
+Sh "46" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4 7.7
+$EndPAD
+$PAD
+Sh "47" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 7.7
+$EndPAD
+$PAD
+Sh "48" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5 7.7
+$EndPAD
+$PAD
+Sh "49" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.5 7.7
+$EndPAD
+$PAD
+Sh "50" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 7.7
+$EndPAD
+$PAD
+Sh "51" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 6
+$EndPAD
+$PAD
+Sh "52" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 5.5
+$EndPAD
+$PAD
+Sh "53" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 5
+$EndPAD
+$PAD
+Sh "54" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 4.5
+$EndPAD
+$PAD
+Sh "55" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 4
+$EndPAD
+$PAD
+Sh "56" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 3.5
+$EndPAD
+$PAD
+Sh "57" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 3
+$EndPAD
+$PAD
+Sh "58" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 2.5
+$EndPAD
+$PAD
+Sh "59" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 2
+$EndPAD
+$PAD
+Sh "60" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 1.5
+$EndPAD
+$PAD
+Sh "61" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 1
+$EndPAD
+$PAD
+Sh "62" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 0.5
+$EndPAD
+$PAD
+Sh "63" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 0
+$EndPAD
+$PAD
+Sh "64" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 -0.5
+$EndPAD
+$PAD
+Sh "65" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 -1
+$EndPAD
+$PAD
+Sh "66" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 -1.5
+$EndPAD
+$PAD
+Sh "67" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 -2
+$EndPAD
+$PAD
+Sh "68" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 -2.5
+$EndPAD
+$PAD
+Sh "69" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 -3
+$EndPAD
+$PAD
+Sh "70" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 -3.5
+$EndPAD
+$PAD
+Sh "71" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 -4
+$EndPAD
+$PAD
+Sh "72" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 -4.5
+$EndPAD
+$PAD
+Sh "73" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 -5
+$EndPAD
+$PAD
+Sh "74" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 -5.5
+$EndPAD
+$PAD
+Sh "75" R 1.5 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.7 -6
+$EndPAD
+$PAD
+Sh "76" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 -7.7
+$EndPAD
+$PAD
+Sh "77" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.5 -7.7
+$EndPAD
+$PAD
+Sh "78" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5 -7.7
+$EndPAD
+$PAD
+Sh "79" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 -7.7
+$EndPAD
+$PAD
+Sh "80" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4 -7.7
+$EndPAD
+$PAD
+Sh "81" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.5 -7.7
+$EndPAD
+$PAD
+Sh "82" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 -7.7
+$EndPAD
+$PAD
+Sh "83" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.5 -7.7
+$EndPAD
+$PAD
+Sh "84" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 -7.7
+$EndPAD
+$PAD
+Sh "85" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 -7.7
+$EndPAD
+$PAD
+Sh "86" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 -7.7
+$EndPAD
+$PAD
+Sh "87" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.5 -7.7
+$EndPAD
+$PAD
+Sh "88" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -7.7
+$EndPAD
+$PAD
+Sh "89" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.5 -7.7
+$EndPAD
+$PAD
+Sh "90" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 -7.7
+$EndPAD
+$PAD
+Sh "91" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 -7.7
+$EndPAD
+$PAD
+Sh "92" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 -7.7
+$EndPAD
+$PAD
+Sh "93" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.5 -7.7
+$EndPAD
+$PAD
+Sh "94" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3 -7.7
+$EndPAD
+$PAD
+Sh "95" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.5 -7.7
+$EndPAD
+$PAD
+Sh "96" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4 -7.7
+$EndPAD
+$PAD
+Sh "97" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 -7.7
+$EndPAD
+$PAD
+Sh "98" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5 -7.7
+$EndPAD
+$PAD
+Sh "99" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.5 -7.7
+$EndPAD
+$PAD
+Sh "100" R 1.5 0.3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 -7.7
+$EndPAD
+$PAD
+Sh "" C 1 1 0 0 900
+Dr 0 0 0
+At SMD N 00808000
+Ne 0 ""
+Po 7.7 -7.7
+$EndPAD
+$PAD
+Sh "" C 1 1 0 0 900
+Dr 0 0 0
+At SMD N 00808000
+Ne 0 ""
+Po -7.7 7.7
+$EndPAD
+$SHAPE3D
+Na "3D/IC/QFP50P1600X1600-100.wrl"
+Sc 0.393701 0.393701 0.393701
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE QFP50P1600X1600-100N
 $MODULE QFP80P1200x1200-44N
 Po 0 0 0 15 5227DF19 00000000 ~~
 Li QFP80P1200x1200-44N
