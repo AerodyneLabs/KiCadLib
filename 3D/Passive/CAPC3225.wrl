@@ -5,9 +5,9 @@ DEF cube1_cut3 Transform {
     Shape {
       appearance Appearance {
         material DEF Body Material {
-          diffuseColor 0.0 0.5 0.0
+          diffuseColor 0.75 0.75 0.0
           emissiveColor 0.0 0.0 0.0
-          specularColor 0.0 0.5 0.0
+          specularColor 0.75 0.75 0.0
           ambientIntensity 1.0
           transparency 0.0
           shininess 1.0
