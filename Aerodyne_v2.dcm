@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/11/2013 12:29:59 AM
+EESchema-DOCLIB  Version 2.0  Date: 10/12/2013 7:12:44 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -61,6 +61,10 @@ $ENDCMP
 #
 $CMP CRYSTAL
 D Crystal, 2 pin
+$ENDCMP
+#
+$CMP DEBUG-ARM-10
+D ARM JTAG, 10 pin
 $ENDCMP
 #
 $CMP DIODE
