@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/17/2013 11:10:33 AM
+EESchema-DOCLIB  Version 2.0  Date: 10/17/2013 1:24:25 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -259,6 +259,10 @@ $ENDCMP
 #
 $CMP VENUS638FLPX
 D Sensor, GPS, 20 hz
+$ENDCMP
+#
+$CMP XBEE
+D TCVR, Serial, 900 MHz
 $ENDCMP
 #
 $CMP XBEE-SMT
