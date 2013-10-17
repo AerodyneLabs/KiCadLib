@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/17/2013 1:24:25 PM
+EESchema-DOCLIB  Version 2.0  Date: 10/17/2013 2:19:08 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -267,6 +267,10 @@ $ENDCMP
 #
 $CMP XBEE-SMT
 D RF Transciever, XBee
+$ENDCMP
+#
+$CMP XTEND
+D TCVR, Serial, 900 MHz
 $ENDCMP
 #
 #End Doc Library

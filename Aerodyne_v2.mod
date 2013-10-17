@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  10/17/2013 1:41:22 PM
+PCBNEW-LibModule-V1  10/17/2013 2:13:30 PM
 # encoding utf-8
 Units mm
 $INDEX
@@ -140,6 +140,7 @@ XBEE-SMT
 XTAL-2SMD-60x35
 XTAL1135X465
 XTAL21X21
+XTEND
 uSD_AMPH_101-00303
 $EndINDEX
 $MODULE BATT-18650
@@ -11441,6 +11442,199 @@ Ne 0 ""
 Po 0.55 0
 $EndPAD
 $EndMODULE XTAL21X21
+$MODULE XTEND
+Po 0 0 0 15 52603669 00000000 ~~
+Li XTEND
+Sc 0
+AR 
+Op 0 0 0
+T0 0 3 1.27 0.762 0 0.1524 N I 21 N "XTEND"
+T1 0 -3 1.27 0.762 0 0.1524 N I 21 N "VAL**"
+DS 10.25 0 8 0 0.2032 21
+DS 8 0 8 2.25 0.2032 21
+DS 10.25 2.25 -10.25 2.25 0.2032 21
+DS -10.25 2.25 -10.25 -2.25 0.2032 21
+DS -10.25 -2.25 10.25 -2.25 0.2032 21
+DS 10.25 -2.25 10.25 2.25 0.2032 21
+DS -18.5 -57 18.5 -57 0.2032 24
+DS -18.5 4 -18.5 -57 0.2032 24
+DS 18.5 -57 18.5 4 0.2032 24
+DS 18.5 4 -18.5 4 0.2032 24
+$PAD
+Sh "1" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 1
+$EndPAD
+$PAD
+Sh "2" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 -1
+$EndPAD
+$PAD
+Sh "3" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 1
+$EndPAD
+$PAD
+Sh "4" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 -1
+$EndPAD
+$PAD
+Sh "5" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 1
+$EndPAD
+$PAD
+Sh "6" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 -1
+$EndPAD
+$PAD
+Sh "7" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 1
+$EndPAD
+$PAD
+Sh "8" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 -1
+$EndPAD
+$PAD
+Sh "9" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 1
+$EndPAD
+$PAD
+Sh "10" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 -1
+$EndPAD
+$PAD
+Sh "11" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 1
+$EndPAD
+$PAD
+Sh "12" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 -1
+$EndPAD
+$PAD
+Sh "13" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 1
+$EndPAD
+$PAD
+Sh "14" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 -1
+$EndPAD
+$PAD
+Sh "15" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 1
+$EndPAD
+$PAD
+Sh "16" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 -1
+$EndPAD
+$PAD
+Sh "17" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 1
+$EndPAD
+$PAD
+Sh "18" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 -1
+$EndPAD
+$PAD
+Sh "19" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 1
+$EndPAD
+$PAD
+Sh "20" C 1.1 1.1 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 -1
+$EndPAD
+$PAD
+Sh "" C 4.3 4.3 0 0 0
+Dr 3.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14.5 0
+$EndPAD
+$PAD
+Sh "" C 4.3 4.3 0 0 0
+Dr 3.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14.5 0
+$EndPAD
+$PAD
+Sh "" C 4.3 4.3 0 0 0
+Dr 3.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14.5 -53
+$EndPAD
+$PAD
+Sh "" C 4.3 4.3 0 0 0
+Dr 3.3 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14.5 -53
+$EndPAD
+$SHAPE3D
+Na "3D/Misc/XTend.wrl"
+Sc 0.393701 0.393701 0.393701
+Of 0 0 0
+Ro -90 0 -90
+$EndSHAPE3D
+$EndMODULE XTEND
 $MODULE uSD_AMPH_101-00303
 Po 0 0 0 15 5234DD3A 00000000 ~~
 Li uSD_AMPH_101-00303
