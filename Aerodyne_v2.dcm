@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/17/2013 2:19:08 PM
+EESchema-DOCLIB  Version 2.0  Date: 10/21/2013 12:00:04 AM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -243,6 +243,11 @@ $ENDCMP
 #
 $CMP TM4C123GH6PZ
 D MCU, 32 bit, 100 pin, Cortex M4F, TI
+$ENDCMP
+#
+$CMP TMP3X
+D TMP35/36/37 Temperature Sensor
+K Temperature, TMP35, TMP36, TMP37
 $ENDCMP
 #
 $CMP TP
