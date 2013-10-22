@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/21/2013 12:00:04 AM
+EESchema-DOCLIB  Version 2.0  Date: 10/21/2013 10:30:51 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -19,6 +19,11 @@ $ENDCMP
 $CMP BATTERY
 D Battery, 1 cell
 K Battery
+$ENDCMP
+#
+$CMP BLINKM/MINM
+D BlinkM and MinM RGB module
+K BlinkM, MinM, RGB, LED
 $ENDCMP
 #
 $CMP C
