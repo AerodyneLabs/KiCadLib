@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/24/2013 6:38:44 AM
+EESchema-DOCLIB  Version 2.0  Date: 10/24/2013 6:43:28 AM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -97,6 +97,10 @@ $ENDCMP
 #
 $CMP GATE-AND
 D Logic, And, Single
+$ENDCMP
+#
+$CMP GATE-NAND-SNGL
+D Gate, NAND, 2 input, SN74AHC1G00
 $ENDCMP
 #
 $CMP ICSP-PIC
@@ -219,10 +223,6 @@ $ENDCMP
 #
 $CMP SN65176
 D Transciever, Differential Bus, RS485
-$ENDCMP
-#
-$CMP SN74AHC1G00
-D Gate, NAND, 2 input
 $ENDCMP
 #
 $CMP SN74HC126
