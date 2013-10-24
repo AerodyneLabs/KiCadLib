@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/24/2013 7:05:11 AM
+EESchema-DOCLIB  Version 2.0  Date: 10/24/2013 7:09:40 AM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -24,6 +24,10 @@ $ENDCMP
 $CMP BLINKM/MINM
 D BlinkM and MinM RGB module
 K BlinkM, MinM, RGB, LED
+$ENDCMP
+#
+$CMP BUFF-TRIST-QUAD
+D Gate, Buffer, Tri-State, Quad, SN74HC126
 $ENDCMP
 #
 $CMP BUFF-TRIST-SNGL
@@ -227,10 +231,6 @@ $ENDCMP
 #
 $CMP SN65176
 D Transciever, Differential Bus, RS485
-$ENDCMP
-#
-$CMP SN74HC126
-D Gate, Buffer, Tri-State, Quad
 $ENDCMP
 #
 $CMP SPU0410LR5H-QB
