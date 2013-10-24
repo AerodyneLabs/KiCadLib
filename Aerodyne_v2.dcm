@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/24/2013 6:43:28 AM
+EESchema-DOCLIB  Version 2.0  Date: 10/24/2013 7:05:11 AM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -97,6 +97,10 @@ $ENDCMP
 #
 $CMP GATE-AND
 D Logic, And, Single
+$ENDCMP
+#
+$CMP GATE-INV-SNGL
+D Gate, Inverter, Single, SN74LVC1G04
 $ENDCMP
 #
 $CMP GATE-NAND-SNGL
@@ -227,10 +231,6 @@ $ENDCMP
 #
 $CMP SN74HC126
 D Gate, Buffer, Tri-State, Quad
-$ENDCMP
-#
-$CMP SN74LVC1G04
-D Gate, Inverter, Single
 $ENDCMP
 #
 $CMP SPU0410LR5H-QB
