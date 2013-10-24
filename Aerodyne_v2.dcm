@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/21/2013 10:30:51 PM
+EESchema-DOCLIB  Version 2.0  Date: 10/24/2013 6:38:44 AM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -24,6 +24,10 @@ $ENDCMP
 $CMP BLINKM/MINM
 D BlinkM and MinM RGB module
 K BlinkM, MinM, RGB, LED
+$ENDCMP
+#
+$CMP BUFF-TRIST-SNGL
+D Gate, Buffer, Tri-state, SN74LVC1G125
 $ENDCMP
 #
 $CMP C
@@ -227,10 +231,6 @@ $ENDCMP
 #
 $CMP SN74LVC1G04
 D Gate, Inverter, Single
-$ENDCMP
-#
-$CMP SN74LVC1G125
-D Gate, Buffer, Tri-state
 $ENDCMP
 #
 $CMP SPU0410LR5H-QB
