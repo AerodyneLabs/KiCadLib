@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/28/2013 4:48:18 PM
+EESchema-DOCLIB  Version 2.0  Date: 10/28/2013 7:31:35 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -127,10 +127,6 @@ $ENDCMP
 #
 $CMP LED
 D LED
-$ENDCMP
-#
-$CMP LM358
-D Op-Amp, Dual
 $ENDCMP
 #
 $CMP LTC3112
