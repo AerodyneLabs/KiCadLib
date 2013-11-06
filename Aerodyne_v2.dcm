@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/30/2013 1:25:27 AM
+EESchema-DOCLIB  Version 2.0  Date: 11/5/2013 11:36:24 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -240,6 +240,11 @@ $ENDCMP
 #
 $CMP SW-MOM
 D Switch, SPST, Momentary
+$ENDCMP
+#
+$CMP SYNAPSE_RF266PC1
+D Synapse  RF266PC1 module, fits standard xBee header
+K Synapse, RF266PC1
 $ENDCMP
 #
 $CMP THERMISTOR
