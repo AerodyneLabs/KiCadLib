@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 11/6/2013 11:22:37 PM
+EESchema-DOCLIB  Version 2.0  Date: 11/7/2013 12:28:14 AM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -114,6 +114,11 @@ $ENDCMP
 #
 $CMP GATE-NAND-SNGL
 D Gate, NAND, 2 input, SN74AHC1G00
+$ENDCMP
+#
+$CMP HIH-40XX
+D HIH-40xx Humidty Sensor with analog voltage output
+K Honeywell, Humidity, Sensor
 $ENDCMP
 #
 $CMP ICSP-PIC
