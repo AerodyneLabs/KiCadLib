@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 11/6/2013 12:20:03 AM
+EESchema-DOCLIB  Version 2.0  Date: 11/6/2013 11:22:37 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -97,6 +97,11 @@ $ENDCMP
 #
 $CMP FERRITE
 D Ferrite Bead
+$ENDCMP
+#
+$CMP FIO
+D Fio Arduino board, based on the Sparkfun Fio v3 board
+K arduino, fio, sparkfun
 $ENDCMP
 #
 $CMP GATE-AND
