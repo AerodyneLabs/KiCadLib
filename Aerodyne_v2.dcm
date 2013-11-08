@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 11/7/2013 12:28:14 AM
+EESchema-DOCLIB  Version 2.0  Date: 11/7/2013 11:06:32 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -278,6 +278,11 @@ $ENDCMP
 #
 $CMP TP
 D Test Point
+$ENDCMP
+#
+$CMP TPS736XX
+D TPS736xx LDO regulator from Texas Instruments
+K LDO, Voltage, Regulator, TI
 $ENDCMP
 #
 $CMP USB
