@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 11/16/2013 3:31:17 PM
+EESchema-LIBRARY Version 2.3  Date: 11/16/2013 4:56:28 PM
 #encoding utf-8
 #
 # ANTENNA
@@ -719,7 +719,7 @@ F1 "L" 0 50 60 H V C CNN
 F2 "~" 0 0 60 H V C CNN
 F3 "~" 0 0 60 H V C CNN
 $FPLIST
- INDC*
+ IND*
 $ENDFPLIST
 DRAW
 A -113 0 37 -1799 -1 0 1 0 N -150 0 -75 0
