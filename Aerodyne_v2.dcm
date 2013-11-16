@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 11/7/2013 11:06:32 PM
+EESchema-DOCLIB  Version 2.0  Date: 11/16/2013 3:31:17 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -133,6 +133,10 @@ $ENDCMP
 $CMP L-CORE
 D Inductor, Magnetic Core
 K Inductor
+$ENDCMP
+#
+$CMP LDC1000
+D Sensor, Inductance, SPI
 $ENDCMP
 #
 $CMP LED
