@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  11/16/2013 7:23:44 PM
+PCBNEW-LibModule-V1  11/17/2013 12:28:47 PM
 # encoding utf-8
 Units mm
 $INDEX
@@ -262,49 +262,49 @@ $PAD
 Sh "1" C 1.905 1.905 0 0 0
 Dr 1.27 0 0
 At STD N 00E0FFFF
-Ne 0 ""
+Ne 4 "RST"
 Po -6.4 6.5
 $EndPAD
 $PAD
 Sh "2" C 1.905 1.905 0 0 0
 Dr 1.27 0 0
 At STD N 00E0FFFF
-Ne 0 ""
+Ne 2 "GND"
 Po -3.86 6.5
 $EndPAD
 $PAD
 Sh "3" C 1.905 1.905 0 0 0
 Dr 1.27 0 0
 At STD N 00E0FFFF
-Ne 0 ""
+Ne 1 "+BATT"
 Po -1.32 6.5
 $EndPAD
 $PAD
 Sh "4" C 1.905 1.905 0 0 0
 Dr 1.27 0 0
 At STD N 00E0FFFF
-Ne 0 ""
+Ne 5 "SW"
 Po 1.2 6.5
 $EndPAD
 $PAD
 Sh "5" C 1.905 1.905 0 0 0
 Dr 1.27 0 0
 At STD N 00E0FFFF
-Ne 0 ""
+Ne 6 "TEMP"
 Po 3.75 6.5
 $EndPAD
 $PAD
 Sh "6" C 1.905 1.905 0 0 0
 Dr 1.27 0 0
 At STD N 00E0FFFF
-Ne 0 ""
+Ne 3 "MISO"
 Po 6.3 6.5
 $EndPAD
 $SHAPE3D
 Na "3D/Devices/blinkm.wrl"
-Sc 0.39 0.39 0.39
-Of -0.31 -0.31 0.13
-Ro 270 0 90
+Sc 0.4 0.4 0.4
+Of -0.3 0.13 -0.08
+Ro 270 0 0
 $EndSHAPE3D
 $EndMODULE BlinkM
 $MODULE CAPC0603-L
