@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  11/17/2013 12:28:47 PM
+PCBNEW-LibModule-V1  11/17/2013 9:19:35 PM
 # encoding utf-8
 Units mm
 $INDEX
@@ -5662,6 +5662,12 @@ At STD N 00E0FFFF
 Ne 0 ""
 Po 3.8 -3.8
 $EndPAD
+$SHAPE3D
+Na "3D/Devices/MinM.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
 $EndMODULE MinM
 $MODULE POT-3203
 Po 0 0 0 15 5243BA9C 00000000 ~~
