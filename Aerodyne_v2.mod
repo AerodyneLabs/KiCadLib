@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  11/18/2013 10:53:36 PM
+PCBNEW-LibModule-V1  11/18/2013 10:56:11 PM
 # encoding utf-8
 Units mm
 $INDEX
@@ -12823,7 +12823,7 @@ Ro -90 0 -90
 $EndSHAPE3D
 $EndMODULE XTEND
 $MODULE XTEND-SMT-HDR
-Po 0 0 0 15 528AEEBF 00000000 ~~
+Po 0 0 0 15 528AEF67 00000000 ~~
 Li XTEND-SMT-HDR
 Sc 0
 AR 
@@ -12880,7 +12880,7 @@ Sh "2" R 0.89 2.54 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 9 -7.35
+Po 9 -2.54
 $EndPAD
 $PAD
 Sh "3" R 0.89 2.54 0 0 0
@@ -12894,7 +12894,7 @@ Sh "4" R 0.89 2.54 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 5 -7.35
+Po 7 -2.54
 $EndPAD
 $PAD
 Sh "5" R 0.89 2.54 0 0 0
@@ -12922,7 +12922,7 @@ Sh "8" R 0.89 2.54 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -3 -7.35
+Po 3 -2.54
 $EndPAD
 $PAD
 Sh "9" R 0.89 2.54 0 0 0
@@ -12936,7 +12936,7 @@ Sh "10" R 0.89 2.54 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -7 -7.35
+Po 1 -2.54
 $EndPAD
 $PAD
 Sh "11" R 0.89 2.54 0 0 0
@@ -12950,7 +12950,7 @@ Sh "12" R 0.89 2.54 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -11 -7.35
+Po -1 -2.54
 $EndPAD
 $PAD
 Sh "13" R 0.89 2.54 0 0 0
@@ -12992,7 +12992,7 @@ Sh "18" R 0.89 2.54 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -23 -7.35
+Po -7 -2.54
 $EndPAD
 $PAD
 Sh "19" R 0.89 2.54 0 0 0
