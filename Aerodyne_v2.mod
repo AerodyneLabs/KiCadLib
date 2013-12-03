@@ -1,8 +1,9 @@
-PCBNEW-LibModule-V1  11/22/2013 10:59:40 PM
+PCBNEW-LibModule-V1  12/3/2013 3:14:10 AM
 # encoding utf-8
 Units mm
 $INDEX
 529802B02500G
+ANTENOVA-UB
 BATT-18650
 BATT_CR2032_SNAPDRAGON
 BlinkM
@@ -200,6 +201,285 @@ Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE 529802B02500G
+$MODULE ANTENOVA-UB
+Po 0 0 0 15 529D988E 00000000 ~~
+Li ANTENOVA-UB
+Sc 0
+AR 
+Op 0 0 0
+T0 25.7 4.95 1.524 1.524 900 0.3048 N I 21 N "ANTENOVA-UB"
+T1 12.1 4.95 1.524 1.524 0 0.3048 N I 21 N "VAL**"
+DS -0.25 -0.25 24.45 -0.25 0.0762 26
+DS 24.45 -0.25 24.45 10.15 0.0762 26
+DS 24.45 10.15 -0.25 10.15 0.0762 26
+DS -0.25 10.15 -0.25 -0.25 0.0762 26
+DS 24.3 -0.1 24.3 10 0.2032 21
+DS 24.3 10 -0.1 10 0.2032 21
+DS -0.1 10 -0.1 -0.1 0.2032 21
+DS -0.1 -0.1 24.3 -0.1 0.2032 21
+DS 0 0 24.2 0 0.0762 24
+DS 24.2 0 24.2 9.9 0.0762 24
+DS 24.2 9.9 0 9.9 0.0762 24
+DS 0 9.9 0 0 0.0762 24
+$PAD
+Sh "3" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7 9.2
+$EndPAD
+$PAD
+Sh "2" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7 7.6
+$EndPAD
+$PAD
+Sh "1" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7 6
+$EndPAD
+$PAD
+Sh "4" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 9.2
+$EndPAD
+$PAD
+Sh "5" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.3 9.2
+$EndPAD
+$PAD
+Sh "6" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.9 9.2
+$EndPAD
+$PAD
+Sh "7" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 9.2
+$EndPAD
+$PAD
+Sh "8" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.1 9.2
+$EndPAD
+$PAD
+Sh "9" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.7 9.2
+$EndPAD
+$PAD
+Sh "10" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.3 9.2
+$EndPAD
+$PAD
+Sh "11" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13.9 9.2
+$EndPAD
+$PAD
+Sh "12" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 15.5 9.2
+$EndPAD
+$PAD
+Sh "13" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17.1 9.2
+$EndPAD
+$PAD
+Sh "14" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 18.7 9.2
+$EndPAD
+$PAD
+Sh "15" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 20.3 9.2
+$EndPAD
+$PAD
+Sh "16" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 21.9 9.2
+$EndPAD
+$PAD
+Sh "17" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 23.5 9.2
+$EndPAD
+$PAD
+Sh "18" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 23.5 6.55
+$EndPAD
+$PAD
+Sh "19" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 23.5 4.95
+$EndPAD
+$PAD
+Sh "20" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 23.5 3.35
+$EndPAD
+$PAD
+Sh "21" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 23.5 0.7
+$EndPAD
+$PAD
+Sh "22" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 21.9 0.7
+$EndPAD
+$PAD
+Sh "23" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 20.3 0.7
+$EndPAD
+$PAD
+Sh "24" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 18.7 0.7
+$EndPAD
+$PAD
+Sh "25" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17.1 0.7
+$EndPAD
+$PAD
+Sh "26" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 15.5 0.7
+$EndPAD
+$PAD
+Sh "27" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13.9 0.7
+$EndPAD
+$PAD
+Sh "28" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.3 0.7
+$EndPAD
+$PAD
+Sh "29" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.7 0.7
+$EndPAD
+$PAD
+Sh "30" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.1 0.7
+$EndPAD
+$PAD
+Sh "31" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 0.7
+$EndPAD
+$PAD
+Sh "32" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.9 0.7
+$EndPAD
+$PAD
+Sh "33" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.3 0.7
+$EndPAD
+$PAD
+Sh "34" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.7 0.7
+$EndPAD
+$PAD
+Sh "35" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7 0.7
+$EndPAD
+$PAD
+Sh "36" R 1 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.7 2.3
+$EndPAD
+$SHAPE3D
+Na "3D/Devices/Antenova-UB.wrl"
+Sc 0.393701 0.393701 0.393701
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE ANTENOVA-UB
 $MODULE BATT-18650
 Po 0 0 0 15 52006F0F 00000000 ~~
 Li BATT-18650
