@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  12/17/2013 5:25:21 PM
+PCBNEW-LibModule-V1  12/17/2013 5:41:05 PM
 # encoding utf-8
 Units mm
 $INDEX
@@ -6479,13 +6479,13 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE POT-3361P
 $MODULE PQFN50P400X400-24N
-Po 0 0 0 15 52AB7229 00000000 ~~
+Po 0 0 0 15 52B0E0DC 00000000 ~~
 Li PQFN50P400X400-24N
 Cd PQFN 24, 4x4 body, 0.5 pitch
 Sc 0
 AR 
 Op 0 0 0
-.LocalClearance 0.2032
+.LocalClearance 0.1524
 T0 0 -3.50012 1.27 1.27 0 0.254 N I 21 N "PQFN50P400X400-24N"
 T1 0 3.50012 1.27 1.27 0 0.254 N I 21 N "VAL**"
 DS -1.6 -2.1 -2.1 -2.1 0.1524 21
@@ -6505,172 +6505,172 @@ DS -2 2 2 2 0.0762 24
 DS 2 2 2 -2 0.0762 24
 DS 2 -2 -1.5 -2 0.0762 24
 $PAD
-Sh "1" R 0.8 0.35 0 0 0
+Sh "1" O 0.8 0.32 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.9 -1.25
+Po -1.85 -1.25
 $EndPAD
 $PAD
-Sh "2" R 0.8 0.35 0 0 0
+Sh "2" O 0.8 0.32 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.9 -0.75
+Po -1.85 -0.75
 $EndPAD
 $PAD
-Sh "3" R 0.8 0.35 0 0 0
+Sh "3" O 0.8 0.32 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.9 -0.25
+Po -1.85 -0.25
 $EndPAD
 $PAD
-Sh "4" R 0.8 0.35 0 0 0
+Sh "4" O 0.8 0.32 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.9 0.25
+Po -1.85 0.25
 $EndPAD
 $PAD
-Sh "5" R 0.8 0.35 0 0 0
+Sh "5" O 0.8 0.32 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.9 0.75
+Po -1.85 0.75
 $EndPAD
 $PAD
-Sh "6" R 0.8 0.35 0 0 0
+Sh "6" O 0.8 0.32 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.9 1.25
+Po -1.85 1.25
 $EndPAD
 $PAD
-Sh "7" R 0.8 0.35 0 0 900
+Sh "7" O 0.8 0.32 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.25 1.9
+Po -0.6 4.95
 $EndPAD
 $PAD
-Sh "8" R 0.8 0.35 0 0 900
+Sh "8" O 0.8 0.32 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.75 1.9
+Po -0.75 1.85
 $EndPAD
 $PAD
-Sh "9" R 0.8 0.35 0 0 900
+Sh "9" O 0.8 0.32 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.25 1.9
+Po -0.25 1.85
 $EndPAD
 $PAD
-Sh "10" R 0.8 0.35 0 0 900
+Sh "10" O 0.8 0.32 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.25 1.9
+Po 0.25 1.85
 $EndPAD
 $PAD
-Sh "11" R 0.8 0.35 0 0 900
+Sh "11" O 0.8 0.32 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.75 1.9
+Po 0.75 1.85
 $EndPAD
 $PAD
-Sh "12" R 0.8 0.35 0 0 900
+Sh "12" O 0.8 0.32 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.25 1.9
+Po 1.25 1.85
 $EndPAD
 $PAD
-Sh "13" R 0.8 0.35 0 0 0
+Sh "13" O 0.8 0.32 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.9 1.25
+Po 1.85 1.25
 $EndPAD
 $PAD
-Sh "14" R 0.8 0.35 0 0 0
+Sh "14" O 0.8 0.32 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.9 0.75
+Po 1.85 0.75
 $EndPAD
 $PAD
-Sh "15" R 0.8 0.35 0 0 0
+Sh "15" O 0.8 0.32 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.9 0.25
+Po 1.85 0.25
 $EndPAD
 $PAD
-Sh "16" R 0.8 0.35 0 0 0
+Sh "16" O 0.8 0.32 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.9 -0.25
+Po 1.85 -0.25
 $EndPAD
 $PAD
-Sh "17" R 0.8 0.35 0 0 0
+Sh "17" O 0.8 0.32 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.9 -0.75
+Po 1.85 -0.75
 $EndPAD
 $PAD
-Sh "18" R 0.8 0.35 0 0 0
+Sh "18" O 0.8 0.32 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.9 -1.25
+Po 1.85 -1.25
 $EndPAD
 $PAD
-Sh "19" R 0.8 0.35 0 0 900
+Sh "19" O 0.8 0.32 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.25 -1.9
+Po 1.25 -1.85
 $EndPAD
 $PAD
-Sh "20" R 0.8 0.35 0 0 900
+Sh "20" O 0.8 0.32 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.75 -1.9
+Po 0.75 -1.85
 $EndPAD
 $PAD
-Sh "21" R 0.8 0.35 0 0 900
+Sh "21" O 0.8 0.32 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.25 -1.9
+Po 0.25 -1.85
 $EndPAD
 $PAD
-Sh "22" R 0.8 0.35 0 0 900
+Sh "22" O 0.8 0.32 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.25 -1.9
+Po -0.25 -1.85
 $EndPAD
 $PAD
-Sh "23" R 0.8 0.35 0 0 900
+Sh "23" O 0.8 0.32 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.75 -1.9
+Po -0.75 -1.85
 $EndPAD
 $PAD
-Sh "24" R 0.8 0.35 0 0 900
+Sh "24" O 0.8 0.32 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.25 -1.9
+Po -1.25 -1.85
 $EndPAD
 $SHAPE3D
 Na "3D/IC/PQFN50P400X400-24.wrl"
