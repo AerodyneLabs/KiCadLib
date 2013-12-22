@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 12/3/2013 3:40:33 AM
+EESchema-DOCLIB  Version 2.0  Date: 12/22/2013 12:45:03 AM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -144,6 +144,10 @@ D Sensor, Inductance, SPI
 $ENDCMP
 #
 $CMP LED
+D LED
+$ENDCMP
+#
+$CMP LED-DUAL
 D LED
 $ENDCMP
 #
