@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  12/22/2013 1:22:50 AM
+PCBNEW-LibModule-V1  12/22/2013 1:59:16 AM
 # encoding utf-8
 Units mm
 $INDEX
@@ -2580,7 +2580,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE CONN-WM6469CT
 $MODULE CONN-WURTH-651005136421
-Po 0 0 0 15 52B67485 00000000 ~~
+Po 0 0 0 15 52B69B91 00000000 ~~
 Li CONN-WURTH-651005136421
 Cd USB Mini-B, Vert, PTH
 Sc 0
@@ -2625,35 +2625,35 @@ Ne 0 ""
 Po 4.2 0
 $EndPAD
 $PAD
-Sh "1" C 1 1 0 0 0
+Sh "1" C 0.98 0.98 0 0 0
 Dr 0.6 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -1.6 0.9
 $EndPAD
 $PAD
-Sh "2" C 1 1 0 0 0
+Sh "2" C 0.98 0.98 0 0 0
 Dr 0.6 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -0.8 -0.9
 $EndPAD
 $PAD
-Sh "3" C 1 1 0 0 0
+Sh "3" C 0.98 0.98 0 0 0
 Dr 0.6 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0.9
 $EndPAD
 $PAD
-Sh "4" C 1 1 0 0 0
+Sh "4" C 0.98 0.98 0 0 0
 Dr 0.6 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0.8 -0.9
 $EndPAD
 $PAD
-Sh "5" C 1 1 0 0 0
+Sh "5" C 0.98 0.98 0 0 0
 Dr 0.6 0 0
 At STD N 00E0FFFF
 Ne 0 ""
