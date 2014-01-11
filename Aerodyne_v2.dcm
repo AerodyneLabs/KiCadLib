@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 12/22/2013 12:45:03 AM
+EESchema-DOCLIB  Version 2.0  Date: 1/11/2014 2:42:09 PM
 #
 $CMP ANTENNA
 D Antenna, Generic
@@ -175,6 +175,11 @@ $CMP LTC4412
 D LTC4412, low loss power path controller
 K Linear, LTC4412, Linear Diode, OR
 F D:/Dropbox/StratoStar/Phase 2/Datalogger/Datasheets/4412fa.pdf
+$ENDCMP
+#
+$CMP MCP73831/2
+D MCP73831/2 Li-Ion Charger IC, up to 500 mA
+K Li-Ion, charger
 $ENDCMP
 #
 $CMP MCP73871
