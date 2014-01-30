@@ -1,4 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: 1/11/2014 3:15:24 PM
+EESchema-DOCLIB  Version 2.0  Date: 1/29/2014 9:12:02 PM
+#
+$CMP ADF7012
+D Multichannel ISM band transmitter
+$ENDCMP
 #
 $CMP ANTENNA
 D Antenna, Generic
