@@ -1,4 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: 1/29/2014 9:12:02 PM
+EESchema-DOCLIB  Version 2.0  Date: 2/1/2014 4:22:36 AM
+#
+$CMP AAT1217
+D PMIC, Synchronous, Boost
+$ENDCMP
 #
 $CMP ADF7012
 D Multichannel ISM band transmitter
