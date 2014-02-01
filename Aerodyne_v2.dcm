@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 2/1/2014 6:00:07 AM
+EESchema-DOCLIB  Version 2.0  Date: 2/1/2014 7:46:37 AM
 #
 $CMP AAT1217
 D PMIC, Synchronous, Boost
@@ -324,6 +324,10 @@ $ENDCMP
 #
 $CMP USB_MINI
 D Connector, USB
+$ENDCMP
+#
+$CMP VCXO
+D Voltage controlled oscillator, Enable pin
 $ENDCMP
 #
 $CMP VENUS638FLPX
