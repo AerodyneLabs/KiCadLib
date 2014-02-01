@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 2/1/2014 4:22:36 AM
+EESchema-DOCLIB  Version 2.0  Date: 2/1/2014 6:00:07 AM
 #
 $CMP AAT1217
 D PMIC, Synchronous, Boost
@@ -215,6 +215,10 @@ $ENDCMP
 $CMP MS5611
 D Sensor, Pressure/Temperature, SPI/I2C
 K Sensor, Pressure, Temperature
+$ENDCMP
+#
+$CMP MSP430G2553-PW20
+D MCU, 16 bit, mixed signal
 $ENDCMP
 #
 $CMP PHOTODIODE
