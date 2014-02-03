@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 2/1/2014 7:46:37 AM
+EESchema-DOCLIB  Version 2.0  Date: 2/3/2014 5:53:35 AM
 #
 $CMP AAT1217
 D PMIC, Synchronous, Boost
@@ -219,6 +219,10 @@ $ENDCMP
 #
 $CMP MSP430G2553-PW20
 D MCU, 16 bit, mixed signal
+$ENDCMP
+#
+$CMP MSP430G2553-PW28
+D MCU, 16 bit, Mixed signal
 $ENDCMP
 #
 $CMP PHOTODIODE
