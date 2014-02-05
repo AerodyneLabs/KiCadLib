@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 2/3/2014 5:53:35 AM
+EESchema-DOCLIB  Version 2.0  Date: 2/5/2014 5:27:18 AM
 #
 $CMP AAT1217
 D PMIC, Synchronous, Boost
@@ -49,6 +49,10 @@ $ENDCMP
 $CMP C
 D Capacitor
 K Capacitor
+$ENDCMP
+#
+$CMP CONN-1
+D Connector, 2x1
 $ENDCMP
 #
 $CMP CONN-2
