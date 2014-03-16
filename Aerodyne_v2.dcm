@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 3/11/2014 9:54:29 AM
+EESchema-DOCLIB  Version 2.0  Date: 3/15/2014 10:08:12 PM
 #
 $CMP 93LC46/OT
 D EEPROM, 3-wire serial, 6-pin
@@ -305,6 +305,10 @@ $ENDCMP
 #
 $CMP SN65176
 D Transciever, Differential Bus, RS485
+$ENDCMP
+#
+$CMP SN65HVD233
+D Transceiver, CAN, 3v3
 $ENDCMP
 #
 $CMP SPU0410LR5H-QB
