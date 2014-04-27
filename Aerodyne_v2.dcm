@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 4/8/2014 1:21:31 AM
+EESchema-DOCLIB  Version 2.0  Date: 4/27/2014 5:54:35 PM
 #
 $CMP 93LC46/OT
 D EEPROM, 3-wire serial, 6-pin
@@ -26,6 +26,10 @@ $ENDCMP
 #
 $CMP AOZ1280
 D PMIC, DC-DC, Buck
+$ENDCMP
+#
+$CMP AS6C4008-55ST
+D SRAM, 19 bit address, 8 bit data
 $ENDCMP
 #
 $CMP BA00DD0W
