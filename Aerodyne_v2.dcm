@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 4/27/2014 5:54:35 PM
+EESchema-DOCLIB  Version 2.0  Date: 4/27/2014 6:26:37 PM
 #
 $CMP 93LC46/OT
 D EEPROM, 3-wire serial, 6-pin
@@ -298,6 +298,10 @@ $ENDCMP
 $CMP RGBLED
 D RGB LED with common Anode
 K RGB, LED
+$ENDCMP
+#
+$CMP S29AL016J-T
+D NOR Flash, 16 Mbit, 20-bit address, 8/16 bit data, TSOP
 $ENDCMP
 #
 $CMP SD-CARD
