@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 5/23/2014 3:32:41 PM
+EESchema-DOCLIB  Version 2.0  Date: 6/1/2014 2:50:35 PM
 #
 $CMP 93LC46/OT
 D EEPROM, 3-wire serial, 6-pin
@@ -407,6 +407,10 @@ $ENDCMP
 #
 $CMP VENUS638FLPX
 D Sensor, GPS, 20 hz
+$ENDCMP
+#
+$CMP VENUS838FLPX-L
+D GPS, Skytraq, 50 hz
 $ENDCMP
 #
 $CMP VENUS838LPX-L
