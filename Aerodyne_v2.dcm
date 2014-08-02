@@ -344,6 +344,10 @@ $CMP SHT21
 D Sensor, Humidity/Temperature, Digital I2C
 $ENDCMP
 #
+$CMP SI446X
+D RF Transceiver
+$ENDCMP
+#
 $CMP SKY13411
 D RF Switch, DPDT, 6 GHz
 $ENDCMP
@@ -366,6 +370,10 @@ $ENDCMP
 #
 $CMP STM32F427I
 D MCU, 32-bit, 176 pin, Cortex M4, FPU, ST Micro
+$ENDCMP
+#
+$CMP STM32L100
+D STM32L1, Cortex M3, 32 bit, 64 pin
 $ENDCMP
 #
 $CMP STM32L15XCX
