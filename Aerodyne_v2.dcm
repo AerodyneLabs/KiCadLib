@@ -28,6 +28,10 @@ $CMP AOZ1280
 D PMIC, DC-DC, Buck
 $ENDCMP
 #
+$CMP AS179-92LF
+D RF Switch, SPDT, 3 GHz
+$ENDCMP
+#
 $CMP AS6C4008-55ST
 D SRAM, 19 bit address, 8 bit data
 $ENDCMP
@@ -338,6 +342,10 @@ $ENDCMP
 #
 $CMP SHT21
 D Sensor, Humidity/Temperature, Digital I2C
+$ENDCMP
+#
+$CMP SKY13411
+D RF Switch, DPDT, 6 GHz
 $ENDCMP
 #
 $CMP SN65176
