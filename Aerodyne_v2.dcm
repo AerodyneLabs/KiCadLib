@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 7/31/2014 4:13:28 PM
+EESchema-DOCLIB  Version 2.0  Date: 8/4/2014 1:18:29 PM
 #
 $CMP 93LC46/OT
 D EEPROM, 3-wire serial, 6-pin
@@ -322,6 +322,10 @@ $ENDCMP
 #
 $CMP S29AL016J-T
 D NOR Flash, 16 Mbit, 20-bit address, 8/16 bit data, TSOP
+$ENDCMP
+#
+$CMP SC4503
+D PMIC, Boost regulator, 1.4A
 $ENDCMP
 #
 $CMP SD-CARD
