@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 8/4/2014 3:50:00 PM
+EESchema-DOCLIB  Version 2.0  Date: 8/17/2014 2:17:38 PM
 #
 $CMP 93LC46/OT
 D EEPROM, 3-wire serial, 6-pin
@@ -439,6 +439,10 @@ $ENDCMP
 #
 $CMP VCXO
 D Voltage controlled oscillator, Enable pin
+$ENDCMP
+#
+$CMP VCXO-NOEN
+D Voltage controlled oscillator
 $ENDCMP
 #
 $CMP VENUS638FLPX
