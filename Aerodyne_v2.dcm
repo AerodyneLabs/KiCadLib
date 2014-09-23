@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 9/14/2014 3:32:23 PM
+EESchema-DOCLIB  Version 2.0  Date: 9/22/2014 3:41:36 PM
 #
 $CMP 93LC46/OT
 D EEPROM, 3-wire serial, 6-pin
@@ -229,6 +229,10 @@ $CMP LTC4412
 D LTC4412, low loss power path controller
 K Linear, LTC4412, Linear Diode, OR
 F D:/Dropbox/StratoStar/Phase 2/Datalogger/Datasheets/4412fa.pdf
+$ENDCMP
+#
+$CMP MAX5026
+D PMIC, Boost, 36V
 $ENDCMP
 #
 $CMP MCP73831/2
