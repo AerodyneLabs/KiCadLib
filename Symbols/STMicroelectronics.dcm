@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F417VGT
+D ARM Cortex M4, 32-bit MCU, FPU, 100-pin
+K stm32, cortex
+$ENDCMP
+#
+#End Doc Library
