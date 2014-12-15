@@ -1,0 +1,29 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S34ML01G100T
+D Memory, NAND Flash, Spansion, 8-bit bus, 1Gbit
+$ENDCMP
+#
+$CMP S34ML01G104T
+D Memory, NAND Flash, Spansion, 16-bit bus, 1Gbit
+$ENDCMP
+#
+$CMP S34ML02G100T
+D Memory, NAND Flash, Spansion, 8-bit bus, 2Gbit
+K memory, flash
+$ENDCMP
+#
+$CMP S34ML02G104T
+D Memory, NAND Flash, Spansion, 16-bit bus, 2Gbit
+K memory, flash
+$ENDCMP
+#
+$CMP S34ML04G100T
+D Memory, NAND Flash, Spansion, 8-bit bus, 4Gbit
+$ENDCMP
+#
+$CMP S34ML04G104T
+D Memory, NAND Flash, Spansion, 16-bit bus, 4Gbit
+$ENDCMP
+#
+#End Doc Library
