@@ -75,4 +75,9 @@
     (solder_mask_margin 0.375) (clearance 0.375))
   (pad FD2 smd circle (at -4.18 -4.18 270) (size 0.75 0.75) (layers F.Cu F.Mask)
     (solder_mask_margin 0.375) (clearance 0.375))
+  (model QFP/QFP50P900X900X160-48.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 0))
+  )
 )
