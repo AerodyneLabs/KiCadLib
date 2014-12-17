@@ -1,8 +1,38 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP STM32F417VGT
-D ARM Cortex M4, 32-bit MCU, FPU, 100-pin
+D MCU, 32-bit, ARM Cortex M4, FPU, 100-pin
 K stm32, cortex
+$ENDCMP
+#
+$CMP STM32L151C6T
+D MCU, 32-bit, ARM Cortex-M3, Low power, 48-pin, 32 Kbyte
+K mcu, cortex
+$ENDCMP
+#
+$CMP STM32L151C8T
+D MCU, 32-bit, ARM Cortex-M3, Low power, 48-pin, 64 Kbyte
+K mcu, cortex
+$ENDCMP
+#
+$CMP STM32L151CBT
+D MCU, 32-bit, ARM Cortex-M3, Low power, 48-pin, 128 Kbyte
+K mcu, cortex
+$ENDCMP
+#
+$CMP STM32L152C6T
+D MCU, 32-bit, ARM Cortex-M3, Low power, LCD, 48-pin, 32 Kbyte
+K mcu, cortex
+$ENDCMP
+#
+$CMP STM32L152C8T
+D MCU, 32-bit, ARM Cortex-M3, Low power, LCD, 48-pin, 64 Kbyte
+K mcu, cortex
+$ENDCMP
+#
+$CMP STM32L152CBT
+D MCU, 32-bit, ARM Cortex-M3, Low power, LCD, 48-pin, 128 Kbyte
+K mcu, cortex
 $ENDCMP
 #
 #End Doc Library
