@@ -65,4 +65,9 @@
   (pad 46 smd rect (at -4.75 -9.69) (size 0.28 1.54) (layers F.Cu F.Paste F.Mask))
   (pad 47 smd rect (at -5.25 -9.69) (size 0.28 1.54) (layers F.Cu F.Paste F.Mask))
   (pad 48 smd rect (at -5.75 -9.69) (size 0.28 1.54) (layers F.Cu F.Paste F.Mask))
+  (model SOP/SOP50P2000-48.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 0))
+  )
 )
