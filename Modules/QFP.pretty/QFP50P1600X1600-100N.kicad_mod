@@ -1,6 +1,6 @@
-(module QFP50P1600X1600X160-100N (layer F.Cu) (tedit 548BAB00)
+(module QFP50P1600X1600-100N (layer F.Cu) (tedit 5490EC48)
   (clearance 0.2032)
-  (fp_text reference QFP50P1600X1600X160-100N (at 0 -0.75) (layer F.SilkS) hide
+  (fp_text reference QFP50P1600X1600-100N (at 0 -0.75) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0 0.75) (layer F.SilkS) hide

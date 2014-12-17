@@ -1,6 +1,6 @@
-(module SOP50P2000X120-48N (layer F.Cu) (tedit 548F5B57)
+(module SOP50P2000-48N (layer F.Cu) (tedit 5490ECEA)
   (clearance 0.2032)
-  (fp_text reference SOP50P2000X120-48N (at -0.75 0 90) (layer F.SilkS) hide
+  (fp_text reference SOP50P2000-48N (at -0.75 0 90) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0.75 0 90) (layer F.SilkS) hide
