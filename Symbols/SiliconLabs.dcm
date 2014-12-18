@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Si4460
+D Transceiver, ISM, 119-1050 MHz Major Bands, +13 dBm
+$ENDCMP
+#
+$CMP Si4461
+D Transceiver, ISM, 119-1050 MHz Major Bands, +16 dBm
+$ENDCMP
+#
+$CMP Si4463
+D Transceiver, ISM, 119-1050 MHz Major Bands, +20 dBm
+$ENDCMP
+#
+$CMP Si4464
+D Transceiver, ISM, 119-1050 MHz, +20 dBm
+$ENDCMP
+#
+#End Doc Library
