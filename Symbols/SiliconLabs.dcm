@@ -16,4 +16,14 @@ $CMP Si4464
 D Transceiver, ISM, 119-1050 MHz, +20 dBm
 $ENDCMP
 #
+$CMP Si7020
+D Sensor, Digital, Humidity, Temperature, I2C, 4%
+K humidity, temperature
+$ENDCMP
+#
+$CMP Si7021
+D Sensor, Digital, Humidity, Temperature, I2C, 3%
+K humidity, temperature
+$ENDCMP
+#
 #End Doc Library
