@@ -19,4 +19,9 @@
   (fp_line (start 1.6 -0.8) (end 1.6 0.8) (layer F.Fab) (width 0.15))
   (pad 1 smd rect (at -1.43 0) (size 1.21 1.77) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.43 0) (size 1.21 1.77) (layers F.Cu F.Paste F.Mask))
+  (model Resistors/RESC3216X65N.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 0))
+  )
 )
