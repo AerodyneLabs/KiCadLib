@@ -19,4 +19,9 @@
   (fp_line (start -1.7 1) (end -1.7 -1) (layer F.CrtYd) (width 0.15))
   (pad 1 smd rect (at -0.865 0) (size 1.1 1.38) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.865 0) (size 1.1 1.38) (layers F.Cu F.Paste F.Mask))
+  (model Capacitors/CAPC2012X135.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 0))
+  )
 )
