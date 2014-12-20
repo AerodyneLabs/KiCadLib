@@ -1,0 +1,193 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# Antenna
+#
+DEF Antenna AE 0 40 N Y 1 F N
+F0 "AE" 0 250 60 H V C CNN
+F1 "Antenna" 0 350 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+P 2 0 1 0  -100 200  0 100 N
+P 2 0 1 0  100 200  0 100 N
+X ~ 1 0 0 200 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Antenna-Balanced
+#
+DEF Antenna-Balanced AE 0 40 N Y 1 F N
+F0 "AE" 0 150 60 H V C CNN
+F1 "Antenna-Balanced" 0 250 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+P 2 0 1 0  -50 100  -250 100 N
+P 2 0 1 0  50 100  250 100 N
+X ~ 1 -50 0 100 U 50 50 1 1 P
+X ~ 2 50 0 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Capacitor
+#
+DEF Capacitor C 0 40 N N 1 F N
+F0 "C" -150 100 60 V V L CNN
+F1 "Capacitor" -50 100 60 V V L CNN
+F2 "" -100 0 60 H I C CNN
+F3 "" 0 100 60 H I C CNN
+F4 "Value" 0 0 60 H I C CNN "Manufacturer"
+F5 "Value" 0 0 60 H I C CNN "Manufacturer Part #"
+F6 "Value" 0 0 60 H I C CNN "Vendor"
+F7 "Value" 0 0 60 H I C CNN "Vendor Part #"
+F8 "10V" 50 100 50 V V L CNN "Voltage"
+F9 "X5R" 150 100 50 V V L CNN "Dielectric"
+$FPLIST
+ CAPC*
+ CAPRD*
+ CAPRB*
+ CAPM*
+$ENDFPLIST
+DRAW
+P 2 0 1 0  -25 -75  -25 75 N
+P 2 0 1 0  25 75  25 -75 N
+X ~ 1 -250 0 225 R 50 50 1 1 P
+X ~ 2 250 0 225 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Capacitor-Polarized
+#
+DEF Capacitor-Polarized C 0 40 N N 1 F N
+F0 "C" -150 100 60 V V L CNN
+F1 "Capacitor-Polarized" -50 100 60 V V L CNN
+F2 "" -100 0 60 H I C CNN
+F3 "" 0 100 60 H I C CNN
+F4 "Value" 0 0 60 H I C CNN "Manufacturer"
+F5 "Value" 0 0 60 H I C CNN "Manufacturer Part #"
+F6 "Value" 0 0 60 H I C CNN "Vendor"
+F7 "Value" 0 0 60 H I C CNN "Vendor Part #"
+F8 "10V" 50 100 50 V V L CNN "Voltage"
+F9 "X5R" 150 100 50 V V L CNN "Dielectric"
+$FPLIST
+ CAPCP*
+ CAPPRD*
+ CAPAE*
+ CAPMP*
+$ENDFPLIST
+DRAW
+A 150 0 125 1431 -1431 0 1 0 N 50 75 50 -75
+P 2 0 1 0  -75 75  -75 25 N
+P 2 0 1 0  -50 50  -100 50 N
+P 2 0 1 0  -25 -75  -25 75 N
+X ~ 1 -250 0 225 R 50 50 1 1 P
+X ~ 2 250 0 225 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Inductor
+#
+DEF Inductor L 0 40 N N 1 F N
+F0 "L" -150 100 60 V V L CNN
+F1 "Inductor" -50 100 60 V V L CNN
+F2 "" -100 0 60 H I C CNN
+F3 "" 0 100 60 H I C CNN
+F4 "Value" 0 0 60 H I C CNN "Manufacturer"
+F5 "Value" 0 0 60 H I C CNN "Manufacturer Part #"
+F6 "Value" 0 0 60 H I C CNN "Vendor"
+F7 "Value" 0 0 60 H I C CNN "Vendor Part #"
+F8 "0.25A" 50 100 50 V V L CNN "Current"
+F9 "100mO" 150 100 50 V V L CNN "DCR"
+$FPLIST
+ INDC*
+ INDM*
+ INDAD*
+ INDRD*
+$ENDFPLIST
+DRAW
+A -100 0 50 1 1799 0 1 0 N -50 0 -150 0
+A 0 0 50 1 1799 0 1 0 N 50 0 -50 0
+A 100 0 50 1 1799 0 1 0 N 150 0 50 0
+X ~ 1 -250 0 100 R 50 50 1 1 P
+X ~ 2 250 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Inductor-Core
+#
+DEF Inductor-Core L 0 40 N N 1 F N
+F0 "L" -150 100 60 V V L CNN
+F1 "Inductor-Core" -50 100 60 V V L CNN
+F2 "" -100 0 60 H I C CNN
+F3 "" 0 100 60 H I C CNN
+F4 "Value" 0 0 60 H I C CNN "Vendor Part #"
+F5 "Value" 0 0 60 H I C CNN "Manufacturer"
+F6 "Value" 0 0 60 H I C CNN "Manufacturer Part #"
+F7 "Value" 0 0 60 H I C CNN "Vendor"
+F8 "0.25A" 50 100 50 V V L CNN "Current"
+F9 "100mO" 150 100 50 V V L CNN "DCR"
+$FPLIST
+ INDC*
+ INDM*
+ INDAD*
+ INDRD*
+$ENDFPLIST
+DRAW
+A -100 0 50 1 1799 0 1 0 N -50 0 -150 0
+A 0 0 50 1 1799 0 1 0 N 50 0 -50 0
+A 100 0 50 1 1799 0 1 0 N 150 0 50 0
+P 2 0 1 0  -150 100  150 100 N
+P 2 0 1 0  150 75  -150 75 N
+X ~ 1 -250 0 100 R 50 50 1 1 P
+X ~ 2 250 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Resistor
+#
+DEF Resistor R 0 40 N N 1 F N
+F0 "R" -150 100 60 V V L CNN
+F1 "Resistor" -50 100 60 V V L CNN
+F2 "" -100 0 60 H I C CNN
+F3 "" 0 100 60 H I C CNN
+F4 "Value" 0 0 60 H I C CNN "Manufacturer"
+F5 "Value" 0 0 60 H I C CNN "Manufacturer Part #"
+F6 "Value" 0 0 60 H I C CNN "Vendor"
+F7 "Value" 0 0 60 H I C CNN "Vendor Part #"
+F8 "1/10W" 50 100 50 V V L CNN "Power"
+F9 "5%" 150 100 50 V V L CNN "Tolerance"
+$FPLIST
+ RESC*
+ RESAD*
+$ENDFPLIST
+DRAW
+S -150 50 150 -50 0 1 0 N
+X ~ 1 -250 0 100 R 50 50 1 1 P
+X ~ 2 250 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Resistor-Kelvin
+#
+DEF Resistor-Kelvin R 0 40 N N 1 F N
+F0 "R" 0 100 60 H V C CNN
+F1 "Resistor-Kelvin" 0 0 60 H V C CNN
+F2 "" -100 0 60 H I C CNN
+F3 "" 0 100 60 H I C CNN
+F4 "Value" 0 0 60 H I C CNN "Manufacturer"
+F5 "Value" 0 0 60 H I C CNN "Manufacturer Part #"
+F6 "Value" 0 0 60 H I C CNN "Vendor"
+F7 "Value" 0 0 60 H I C CNN "Vendor Part #"
+F8 "1/10W" 0 -100 50 H V C CNN "Power"
+F9 "5%" 0 -200 50 H V C CNN "Tolerance"
+DRAW
+S -200 50 200 -50 0 1 0 N
+X ~ 1 -250 0 50 R 50 50 1 1 P
+X ~ 2 250 0 50 L 50 50 1 1 P
+X ~ 3 -150 -200 150 U 50 50 1 1 P
+X ~ 4 150 -200 150 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

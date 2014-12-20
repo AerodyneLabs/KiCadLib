@@ -1,12 +1,13 @@
-(module CAPC3225N (layer F.Cu) (tedit 548F6F3C)
-  (fp_text reference CAPC3225N (at 0 -2.5) (layer F.SilkS) hide
+(module CAPCP3225N (layer F.Cu) (tedit 5494A233)
+  (fp_text reference CAPCP3225N (at 0 -2.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0 2.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_line (start 1.7 1.5) (end -1.7 1.5) (layer F.SilkS) (width 0.15))
-  (fp_line (start -1.7 -1.5) (end 1.7 -1.5) (layer F.SilkS) (width 0.15))
+  (fp_line (start 1.7 -1.5) (end -2.3 -1.5) (layer F.SilkS) (width 0.15))
+  (fp_line (start 1.7 1.5) (end -2.3 1.5) (layer F.SilkS) (width 0.15))
+  (fp_line (start -2.3 -1.5) (end -2.3 1.5) (layer F.SilkS) (width 0.15))
   (fp_line (start -2.35 -1.7) (end 2.35 -1.7) (layer F.CrtYd) (width 0.15))
   (fp_line (start 2.35 -1.7) (end 2.35 1.7) (layer F.CrtYd) (width 0.15))
   (fp_line (start 2.35 1.7) (end -2.35 1.7) (layer F.CrtYd) (width 0.15))
@@ -19,9 +20,4 @@
   (fp_line (start -1.6 1.25) (end -1.6 -1.25) (layer F.Fab) (width 0.15))
   (pad 1 smd rect (at -1.42 0) (size 1.37 2.72) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.42 0) (size 1.37 2.72) (layers F.Cu F.Paste F.Mask))
-  (model Capacitors/CAPC3225X270.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
-    (rotate (xyz 0 0 0))
-  )
 )
