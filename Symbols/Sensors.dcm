@@ -1,5 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MS5607
+D Sensor, Pressure, Temperature, SPI/I2C, 20cm resolution
+$ENDCMP
+#
+$CMP MS5611
+D Sensor, Pressure, Temperature, SPI/I2C, 10cm resolution
+K pressure, temperature
+$ENDCMP
+#
 $CMP Venus838LPx-D
 D GPS, 50 hz, ROM, External 1.2v
 $ENDCMP
