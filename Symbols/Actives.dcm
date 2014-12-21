@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOSFET-N
+D MOSFET, N-ch, Enhancement
+$ENDCMP
+#
+$CMP MOSFET-P
+D MOSFET, P-ch, Enhancement
+$ENDCMP
+#
+#End Doc Library
