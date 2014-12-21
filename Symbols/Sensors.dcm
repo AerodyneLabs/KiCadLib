@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MPU9150
+D Sensor, IMU, 9 axis, I2C
+K imu, accelerometer, gyro, magnetometer
+$ENDCMP
+#
 $CMP MS5607
 D Sensor, Pressure, Temperature, SPI/I2C, 20cm resolution
 $ENDCMP
