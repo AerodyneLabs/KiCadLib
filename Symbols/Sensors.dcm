@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Venus838LPx-D
+D GPS, 50 hz, ROM, External 1.2v
+$ENDCMP
+#
+$CMP Venus838LPx-L
+D GPS, 50 hz, ROM, Internal LDO
+$ENDCMP
+#
+#End Doc Library
