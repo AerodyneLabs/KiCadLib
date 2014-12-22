@@ -1,7 +1,19 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP STM32F415VET
+D MCU, 32-bit, ARM Cortex M4, FPU, Crypto, 100-pin, 512 Kbyte
+$ENDCMP
+#
+$CMP STM32F415VGT
+D MCU, 32-bit, ARM Cortex M4, FPU, Crypto, 100-pin, 1024 Kbyte
+$ENDCMP
+#
+$CMP STM32F417VET
+D MCU, 32-bit, ARM Cortex M4, FPU, Crypto, DCI, Ethernet, 100-pin, 512 Kbyte
+$ENDCMP
+#
 $CMP STM32F417VGT
-D MCU, 32-bit, ARM Cortex M4, FPU, 100-pin
+D MCU, 32-bit, ARM Cortex M4, FPU, Crypto, DCI, Ethernet, 100-pin, 1024 Kbyte
 K stm32, cortex
 $ENDCMP
 #
