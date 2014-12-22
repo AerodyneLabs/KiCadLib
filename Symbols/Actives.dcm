@@ -8,4 +8,8 @@ $CMP MOSFET-P
 D MOSFET, P-ch, Enhancement
 $ENDCMP
 #
+$CMP TVS
+D Transient voltage suppression diode
+$ENDCMP
+#
 #End Doc Library

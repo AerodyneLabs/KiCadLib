@@ -32,12 +32,20 @@ $CMP Inductor-Core
 D Inductor, Iron core
 $ENDCMP
 #
+$CMP PTC
+D PTC resettable fuse
+$ENDCMP
+#
 $CMP Resistor
 D Resistor, 2 terminal
 $ENDCMP
 #
 $CMP Resistor-Kelvin
 D Resistor, 4 terminal
+$ENDCMP
+#
+$CMP Varistor
+D Varistor
 $ENDCMP
 #
 #End Doc Library

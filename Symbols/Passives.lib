@@ -189,6 +189,31 @@ X ~ 2 250 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# PTC
+#
+DEF PTC PTC 0 40 N N 1 F N
+F0 "PTC" -150 100 60 V V L CNN
+F1 "PTC" -50 100 60 V V L CNN
+F2 "" -100 0 60 H I C CNN
+F3 "" 0 100 60 H I C CNN
+F4 "Value" 0 0 60 H I C CNN "Manufacturer"
+F5 "Value" 0 0 60 H I C CNN "Manufacturer Part #"
+F6 "Value" 0 0 60 H I C CNN "Vendor"
+F7 "Value" 0 0 60 H I C CNN "Vendor Part #"
+F8 "I" 50 100 50 V V L CNN "Holding Current"
+F9 "V" 150 100 50 V V L CNN "Max Voltage"
+$FPLIST
+ RESC*
+ RESAD*
+$ENDFPLIST
+DRAW
+S -150 50 150 -50 0 1 0 N
+P 3 0 1 0  -150 100  100 -100  150 -100 N
+X ~ 1 -250 0 100 R 50 50 1 1 P
+X ~ 2 250 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Resistor
 #
 DEF Resistor R 0 40 N N 1 F N
@@ -232,6 +257,31 @@ X ~ 1 -250 0 50 R 50 50 1 1 P
 X ~ 2 250 0 50 L 50 50 1 1 P
 X ~ 3 -150 -200 150 U 50 50 1 1 P
 X ~ 4 150 -200 150 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Varistor
+#
+DEF Varistor RV 0 40 N N 1 F N
+F0 "RV" -150 100 60 V V L CNN
+F1 "Varistor" -50 100 60 V V L CNN
+F2 "" -100 0 60 H I C CNN
+F3 "" 0 100 60 H I C CNN
+F4 "Value" 0 0 60 H I C CNN "Manufacturer"
+F5 "Value" 0 0 60 H I C CNN "Manufacturer Part #"
+F6 "Value" 0 0 60 H I C CNN "Vendor"
+F7 "Value" 0 0 60 H I C CNN "Vendor Part #"
+F8 "V" 50 100 50 V V L CNN "Varistor Voltage"
+F9 "I" 150 100 50 V V L CNN "Surge Current"
+$FPLIST
+ RESC*
+ RESAD*
+$ENDFPLIST
+DRAW
+S -150 50 150 -50 0 1 0 N
+P 3 0 1 0  -150 100  100 -100  150 -100 N
+X ~ 1 -250 0 100 R 50 50 1 1 P
+X ~ 2 250 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
