@@ -16,6 +16,10 @@ $CMP Capacitor-Polarized
 D Capacitor, Polarized
 $ENDCMP
 #
+$CMP Crystal
+D Crystal
+$ENDCMP
+#
 $CMP Inductor
 D Inductor
 $ENDCMP
