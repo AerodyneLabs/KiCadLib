@@ -4,6 +4,10 @@ $CMP Conn_Cortex-JTAG-10
 D Connector, Cortex, JTAG/SWD, 10 pin
 $ENDCMP
 #
+$CMP Conn_Cubesat-PPM
+D Connector, Cubesat, PPM
+$ENDCMP
+#
 $CMP Conn_USB-Micro
 D Connector, USB, Micro
 $ENDCMP
