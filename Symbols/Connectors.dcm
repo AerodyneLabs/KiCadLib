@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Conn_Cortex-JTAG-10
+D Connector, Cortex, JTAG/SWD, 10 pin
+$ENDCMP
+#
+$CMP Conn_USB-Micro
+D Connector, USB, Micro
+$ENDCMP
+#
+$CMP Conn_USB-Mini
+D Connector, USB, Mini
+$ENDCMP
+#
+#End Doc Library
