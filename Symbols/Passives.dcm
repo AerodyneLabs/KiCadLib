@@ -20,6 +20,10 @@ $CMP Crystal
 D Crystal
 $ENDCMP
 #
+$CMP Ferrite
+D Ferrite bead
+$ENDCMP
+#
 $CMP Inductor
 D Inductor
 $ENDCMP

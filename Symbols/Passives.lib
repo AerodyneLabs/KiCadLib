@@ -105,6 +105,32 @@ X ~ 2 250 0 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Ferrite
+#
+DEF Ferrite FB 0 40 N N 1 F N
+F0 "FB" -150 100 60 V V L CNN
+F1 "Ferrite" -50 100 60 V V L CNN
+F2 "" -100 0 60 H I C CNN
+F3 "" 0 100 60 H I C CNN
+F4 "Value" 0 0 60 H I C CNN "Manufacturer"
+F5 "Value" 0 0 60 H I C CNN "Manufacturer Part #"
+F6 "Value" 0 0 60 H I C CNN "Vendor"
+F7 "Value" 0 0 60 H I C CNN "Vendor Part #"
+F8 "0.25A" 50 100 50 V V L CNN "Current"
+F9 "100mO" 150 100 50 V V L CNN "DCR"
+$FPLIST
+ INDC*
+ INDM*
+ INDAD*
+ INDRD*
+$ENDFPLIST
+DRAW
+P 5 0 1 0  50 100  100 50  -50 -100  -100 -50  50 100 N
+X ~ 1 -250 0 200 R 50 50 1 1 P
+X ~ 2 250 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Inductor
 #
 DEF Inductor L 0 40 N N 1 F N
