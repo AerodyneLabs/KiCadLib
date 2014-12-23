@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Battery
+D Battery, Single cell
+$ENDCMP
+#
 $CMP MOSFET-N
 D MOSFET, N-ch, Enhancement
 $ENDCMP

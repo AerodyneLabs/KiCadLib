@@ -1,6 +1,31 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# Battery
+#
+DEF Battery B 0 40 N N 1 F N
+F0 "B" 50 100 60 H V L CNN
+F1 "Battery" 50 -100 60 H V L CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Manufacturer"
+F5 "Value" 0 0 60 H I C CNN "Manufacturer Part #"
+F6 "Value" 0 0 60 H I C CNN "Vendor"
+F7 "Value" 0 0 60 H I C CNN "Vendor Part #"
+$FPLIST
+ Batt*
+$ENDFPLIST
+DRAW
+P 2 0 1 0  -100 50  100 50 N
+P 2 0 1 0  -50 -50  50 -50 N
+P 2 0 1 0  -50 125  -50 75 N
+P 2 0 1 0  -25 -100  -75 -100 N
+P 2 0 1 0  -25 100  -75 100 N
+X ~ 1 0 250 200 D 50 50 1 1 w
+X ~ 2 0 -250 200 U 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
 # MOSFET-N
 #
 DEF MOSFET-N Q 0 40 Y Y 1 F N
