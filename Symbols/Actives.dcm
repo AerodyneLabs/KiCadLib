@@ -4,12 +4,24 @@ $CMP Battery
 D Battery, Single cell
 $ENDCMP
 #
+$CMP Diode
+D Diode
+$ENDCMP
+#
+$CMP Diode-Schottky
+D Diode, Schottky
+$ENDCMP
+#
 $CMP MOSFET-N
 D MOSFET, N-ch, Enhancement
 $ENDCMP
 #
 $CMP MOSFET-P
 D MOSFET, P-ch, Enhancement
+$ENDCMP
+#
+$CMP Photodiode
+D LED
 $ENDCMP
 #
 $CMP TVS
