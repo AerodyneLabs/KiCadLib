@@ -45,7 +45,7 @@ D Resistor, 4 terminal
 $ENDCMP
 #
 $CMP Thermistor
-D PTC resettable fuse
+D Thermistor
 $ENDCMP
 #
 $CMP Varistor
