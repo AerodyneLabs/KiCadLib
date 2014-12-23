@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP73871
+D PMIC, Charger, LiPo, Load sharing, VPCC
+K PMIC, charger
+$ENDCMP
+#
+#End Doc Library
