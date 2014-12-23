@@ -1,11 +1,47 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Conn-1
+D Connector, 1 pin
+$ENDCMP
+#
+$CMP Conn-2
+D Connector, 2 pin
+$ENDCMP
+#
+$CMP Conn-3
+D Connector, 3 pin
+$ENDCMP
+#
+$CMP Conn-4
+D Connector, 4 pin
+$ENDCMP
+#
+$CMP Conn-5
+D Connector, 5 pin
+$ENDCMP
+#
+$CMP Conn-6
+D Connector, 6 pin
+$ENDCMP
+#
+$CMP Conn-7
+D Connector, 7 pin
+$ENDCMP
+#
+$CMP Conn-8
+D Connector, 8 pin
+$ENDCMP
+#
 $CMP Conn_Cortex-JTAG-10
 D Connector, Cortex, JTAG/SWD, 10 pin
 $ENDCMP
 #
 $CMP Conn_Cubesat-PPM
 D Connector, Cubesat, PPM
+$ENDCMP
+#
+$CMP Conn_RJ-45
+D Connector, RJ-45 Generic
 $ENDCMP
 #
 $CMP Conn_USB-Micro
