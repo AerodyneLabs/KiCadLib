@@ -20,6 +20,10 @@ $CMP Crystal
 D Crystal
 $ENDCMP
 #
+$CMP DPDT
+D Switch, Double pole, Double throw
+$ENDCMP
+#
 $CMP Ferrite
 D Ferrite bead
 $ENDCMP
