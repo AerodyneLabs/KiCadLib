@@ -44,6 +44,10 @@ $CMP Resistor-Kelvin
 D Resistor, 4 terminal
 $ENDCMP
 #
+$CMP Thermistor
+D PTC resettable fuse
+$ENDCMP
+#
 $CMP Varistor
 D Varistor
 $ENDCMP

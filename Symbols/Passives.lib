@@ -260,6 +260,29 @@ X ~ 4 150 -200 150 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Thermistor
+#
+DEF Thermistor RT 0 40 N N 1 F N
+F0 "RT" -150 100 60 V V L CNN
+F1 "Thermistor" -50 100 60 V V L CNN
+F2 "" -100 0 60 H I C CNN
+F3 "" 0 100 60 H I C CNN
+F4 "Value" 0 0 60 H I C CNN "Manufacturer"
+F5 "Value" 0 0 60 H I C CNN "Manufacturer Part #"
+F6 "Value" 0 0 60 H I C CNN "Vendor"
+F7 "Value" 0 0 60 H I C CNN "Vendor Part #"
+$FPLIST
+ RESC*
+ RESAD*
+$ENDFPLIST
+DRAW
+S -150 50 150 -50 0 1 0 N
+P 3 0 1 0  -150 100  100 -100  150 -100 N
+X ~ 1 -250 0 100 R 50 50 1 1 P
+X ~ 2 250 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Varistor
 #
 DEF Varistor RV 0 40 N N 1 F N
