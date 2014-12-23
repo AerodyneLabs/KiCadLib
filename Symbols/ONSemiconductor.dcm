@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCP1521
+D PMIC, Buck, 1.5 MHz, 600 mA, 0.9-3.9V out, 2.7-5.5V in
+$ENDCMP
+#
+#End Doc Library
