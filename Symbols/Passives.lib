@@ -271,6 +271,7 @@ F4 "Value" 0 0 60 H I C CNN "Manufacturer"
 F5 "Value" 0 0 60 H I C CNN "Manufacturer Part #"
 F6 "Value" 0 0 60 H I C CNN "Vendor"
 F7 "Value" 0 0 60 H I C CNN "Vendor Part #"
+F8 "Beta" 50 100 60 V V L CNN "Sensitivity"
 $FPLIST
  RESC*
  RESAD*
