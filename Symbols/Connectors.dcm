@@ -32,6 +32,10 @@ $CMP Conn-8
 D Connector, 8 pin
 $ENDCMP
 #
+$CMP Conn_Coax
+D Connector, RF, Coaxial
+$ENDCMP
+#
 $CMP Conn_Cortex-JTAG-10
 D Connector, Cortex, JTAG/SWD, 10 pin
 $ENDCMP
