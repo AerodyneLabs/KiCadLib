@@ -165,7 +165,7 @@ F1 "Conn_Coax" 0 150 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
- Conn*
+ Conn_RF*
 $ENDFPLIST
 DRAW
 C 0 0 25 0 1 0 N

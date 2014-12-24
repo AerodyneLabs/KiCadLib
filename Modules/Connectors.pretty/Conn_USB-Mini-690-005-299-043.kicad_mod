@@ -1,0 +1,8 @@
+(module Conn_USB-Mini-690-005-299-043 (layer F.Cu) (tedit 549A7C61)
+  (fp_text reference Conn_USB-Mini-690-005-299-043 (at 0 0) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at 0 0) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
