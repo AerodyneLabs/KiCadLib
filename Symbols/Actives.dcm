@@ -1,5 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BJT-NPN
+D MOSFET, N-ch, Enhancement
+$ENDCMP
+#
+$CMP BJT-PNP
+D Transistor, PNP
+$ENDCMP
+#
 $CMP Battery
 D Battery, Single cell
 $ENDCMP
