@@ -28,4 +28,8 @@ $CMP TVS
 D Transient voltage suppression diode
 $ENDCMP
 #
+$CMP VCXO
+D Voltage controlled oscillator, Tri-state output
+$ENDCMP
+#
 #End Doc Library
