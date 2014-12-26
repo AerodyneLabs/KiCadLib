@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AS213
+D RF, Switch, 0.1-3 GHz, SPDT
+$ENDCMP
+#
+$CMP SKY13350-385LF
+D RF, Switch, 0.01 - 6 GHz, SPDT
+$ENDCMP
+#
+#End Doc Library
