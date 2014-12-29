@@ -20,6 +20,10 @@ $CMP Diode-Schottky
 D Diode, Schottky
 $ENDCMP
 #
+$CMP LED
+D LED
+$ENDCMP
+#
 $CMP MOSFET-N
 D MOSFET, N-ch, Enhancement
 $ENDCMP
@@ -29,7 +33,7 @@ D MOSFET, P-ch, Enhancement
 $ENDCMP
 #
 $CMP Photodiode
-D LED
+D Photodiode
 $ENDCMP
 #
 $CMP TVS

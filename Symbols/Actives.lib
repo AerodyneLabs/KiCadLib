@@ -116,6 +116,34 @@ X ~ C 250 0 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# LED
+#
+DEF LED D 0 40 N N 1 F N
+F0 "D" -150 100 60 V V L CNN
+F1 "LED" -50 100 60 V V L CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Manufacturer"
+F5 "Value" 0 0 60 H I C CNN "Manufacturer Part #"
+F6 "Value" 0 0 60 H I C CNN "Vendor"
+F7 "Value" 0 0 60 H I C CNN "Vendor Part #"
+F8 "Vf" 50 100 60 V V L CNN "Forward Voltage"
+F9 "I" 150 100 60 V V L CNN "Current"
+$FPLIST
+ LED*
+$ENDFPLIST
+DRAW
+P 2 0 1 0  -25 50  0 100 N
+P 2 0 1 0  25 25  50 75 N
+P 2 0 1 0  50 50  50 -50 N
+P 3 0 1 0  5 80  0 100  -20 90 N
+P 3 0 1 0  55 55  50 75  30 65 N
+P 4 0 1 0  -50 50  -50 -50  50 0  -50 50 N
+X ~ A -250 0 200 R 50 50 1 1 P
+X ~ C 250 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # MOSFET-N
 #
 DEF MOSFET-N Q 0 40 Y Y 1 F N
