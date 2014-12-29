@@ -21,4 +21,9 @@
   (fp_line (start -3 1.5) (end -3 -1.5) (layer F.Fab) (width 0.15))
   (pad 1 smd rect (at -2.15 0) (size 1.9 2.6) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.15 0) (size 1.9 2.6) (layers F.Cu F.Paste F.Mask))
+  (model Clocks/Crystal_Abracon-ABM7.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 0))
+  )
 )
