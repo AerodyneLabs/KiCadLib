@@ -21,4 +21,9 @@
   (pad G smd rect (at -0.95 1.04) (size 0.69 1.33) (layers F.Cu F.Paste F.Mask))
   (pad S smd rect (at 0.95 1.04) (size 0.69 1.33) (layers F.Cu F.Paste F.Mask))
   (pad D smd rect (at 0 -1.04) (size 0.69 1.33) (layers F.Cu F.Paste F.Mask))
+  (model SOT/SOT95P240-3.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 0))
+  )
 )
