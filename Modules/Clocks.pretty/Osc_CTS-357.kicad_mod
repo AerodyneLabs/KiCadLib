@@ -22,4 +22,9 @@
   (pad 4 smd rect (at 2.54 -2.1) (size 1.8 2) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 0 -2.1) (size 1.8 2) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -2.54 -2.1) (size 1.8 2) (layers F.Cu F.Paste F.Mask))
+  (model Clocks/Osc_CTS-357.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 0))
+  )
 )
