@@ -1,8 +1,8 @@
-(module SOT65P220-6N (layer F.Cu) (tedit 549DD1E2)
-  (fp_text reference SOT65P220-6N (at 0 -2.5) (layer F.SilkS)
+(module SOT65P220-6N (layer F.Cu) (tedit 54A0D0E2)
+  (fp_text reference SOT65P220-6N (at 0 -2.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 2.5) (layer F.SilkS)
+  (fp_text value VAL** (at 0 2.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.35 -1.8) (end 1.35 -1.8) (layer F.CrtYd) (width 0.15))
@@ -22,4 +22,9 @@
   (pad 4 smd rect (at 0.65 -0.99) (size 0.4 1.14) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 0 -0.99) (size 0.4 1.14) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -0.65 -0.99) (size 0.4 1.14) (layers F.Cu F.Paste F.Mask))
+  (model SOT/SOT65P220-6L20.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 0))
+  )
 )
