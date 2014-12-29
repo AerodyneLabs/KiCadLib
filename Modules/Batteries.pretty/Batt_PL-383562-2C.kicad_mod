@@ -35,7 +35,7 @@
   (fp_line (start -17.75 0) (end 17.75 0) (layer F.Fab) (width 0.15))
   (pad 1 smd rect (at -8.6 -7.5) (size 6 11) (layers F.Cu F.Mask))
   (pad 2 smd rect (at 8.6 -7.5) (size 6 11) (layers F.Cu F.Mask))
-  (model Batteries/Batt_PL-703562-2C.wrl
+  (model Batteries/Batt_PL-383562-2C.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))
