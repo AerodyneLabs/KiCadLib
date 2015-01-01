@@ -25,4 +25,9 @@
   (fp_line (start -1.35 0.85) (end -1.35 -0.35) (layer F.Fab) (width 0.15))
   (pad C smd rect (at -1.49 0) (size 1.24 1.12) (layers F.Cu F.Paste F.Mask))
   (pad A smd rect (at 1.49 0) (size 1.24 1.12) (layers F.Cu F.Paste F.Mask))
+  (model Diodes/SODFL3616.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 0))
+  )
 )
