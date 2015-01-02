@@ -28,6 +28,10 @@ $CMP MOSFET-N
 D MOSFET, N-ch, Enhancement
 $ENDCMP
 #
+$CMP MOSFET-N-Body
+D MOSFET, N-ch, Enhancement, Body diode
+$ENDCMP
+#
 $CMP MOSFET-P
 D MOSFET, P-ch, Enhancement
 $ENDCMP
