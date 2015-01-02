@@ -48,6 +48,10 @@ $CMP Resistor-Kelvin
 D Resistor, 4 terminal
 $ENDCMP
 #
+$CMP Solder-Bridge
+D Solder bridge
+$ENDCMP
+#
 $CMP Thermistor
 D Thermistor
 $ENDCMP
