@@ -32,6 +32,10 @@ $CMP Conn-8
 D Connector, 8 pin
 $ENDCMP
 #
+$CMP Conn-9
+D Connector, 9 pin
+$ENDCMP
+#
 $CMP Conn_Coax
 D Connector, RF, Coaxial
 $ENDCMP
