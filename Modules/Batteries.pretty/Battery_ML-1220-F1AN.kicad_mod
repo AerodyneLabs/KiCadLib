@@ -1,10 +1,14 @@
-(module Battery_ML-1220-F1AN (layer F.Cu) (tedit 54A63EB5)
+(module Battery_ML-1220-F1AN (layer F.Cu) (tedit 54A64556)
   (fp_text reference Battery_ML-1220-F1AN (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0 2) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (fp_line (start -8.55 -6.5) (end 9.4 -6.5) (layer F.CrtYd) (width 0.15))
+  (fp_line (start 9.4 -6.5) (end 9.4 6.5) (layer F.CrtYd) (width 0.15))
+  (fp_line (start 9.4 6.5) (end -8.55 6.5) (layer F.CrtYd) (width 0.15))
+  (fp_line (start -8.55 6.5) (end -8.55 -6.5) (layer F.CrtYd) (width 0.15))
   (fp_line (start -8 0) (end -7 0) (layer F.SilkS) (width 0.15))
   (fp_line (start -7.5 -0.5) (end -7.5 0.5) (layer F.SilkS) (width 0.15))
   (fp_circle (center 0 0) (end 0 -6.35) (layer F.SilkS) (width 0.15))
@@ -12,4 +16,9 @@
   (fp_circle (center 0 0) (end 0 -6.25) (layer F.Fab) (width 0.15))
   (pad 1 smd rect (at -7.3 -1.625) (size 2 1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 8.15 -1.625) (size 2 1) (layers F.Cu F.Paste F.Mask))
+  (model Batteries/Battery_ML-1220-F1AN.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 0))
+  )
 )
