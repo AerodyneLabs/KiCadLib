@@ -45,7 +45,7 @@ D Connector, Cortex, JTAG/SWD, 10 pin
 $ENDCMP
 #
 $CMP Conn_Cubesat-PPM
-D Connector, Cubesat, PPM
+D Connector, Cubesat, PPM, PPM Side
 $ENDCMP
 #
 $CMP Conn_RJ-45
