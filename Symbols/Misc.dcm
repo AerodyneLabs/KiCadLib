@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRA808M
+D UHF Band Voice Transceiver Module
+$ENDCMP
+#
+$CMP DRA818U
+D UHF Band Voice Transceiver Module
+$ENDCMP
+#
+$CMP DRA818V
+D VHF Band Voice Transceiver Module
+$ENDCMP
+#
+#End Doc Library
