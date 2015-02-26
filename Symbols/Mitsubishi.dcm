@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RA07H4047M
+D 400-470MHz 7W 12.5V, 2 Stage Amp
+$ENDCMP
+#
+$CMP RA08H1317M
+D 135-175MHz 8W 12.5V, 2 stage Amp
+$ENDCMP
+#
+#End Doc Library
